@@ -1,0 +1,254 @@
+{
+    "Manqallar":[
+        {
+            "marka": "Mehtap",
+            "Mehsullar": [
+                {
+                    "ad": "MİDİ MANQAL 32x53 SM 9090",
+                    "aciklama": "Açıq havada yeməklərinizi ləzzətlə hazırlamaq üçün ideal seçimdir.",
+                    "qiymet": 75.00,
+                    "stok": 50,
+                    "sekil": "Json/Bag_Bagca/Manqallar/Mehtap/Mehtap_1.jpg"
+                },
+                {
+                    "ad": "EKO MANQAL 24*39SM 4504",
+                    "aciklama": "Açıq havada yeməklərinizi ləzzətlə hazırlamaq üçün ideal seçimdir.",
+                    "qiymet": 80.00,
+                    "stok": 45,
+                    "sekil": "Json/Bag_Bagca/Manqallar/Mehtap/Mehtap_2.jpg"
+                },
+                {
+                    "ad": "HOBBY MANQAL 25*43SM 3303 X",
+                    "aciklama": "Açıq havada yeməklərinizi ləzzətlə hazırlamaq üçün ideal seçimdir.",
+                    "qiymet": 85.00,
+                    "stok": 30,
+                    "sekil": "Json/Bag_Bagca/Manqallar/Mehtap/Mehtap_3.jpg"
+                },
+                {
+                    "ad": "MANQAL BÜKÜLƏN 5302",
+                    "aciklama": "Açıq havada yeməklərinizi ləzzətlə hazırlamaq üçün ideal seçimdir.",
+                    "qiymet": 90.00,
+                    "stok": 20,
+                    "sekil": "Json/Bag_Bagca/Manqallar/Mehtap/Mehtap_4.jpg"
+                },
+                {
+                    "ad": "QRİL SİYİRMƏLİ 32*53 SM 9191",
+                    "aciklama": "Açıq havada yeməklərinizi ləzzətlə hazırlamaq üçün ideal seçimdir.",
+                    "qiymet": 95.00,
+                    "stok": 40,
+                    "sekil": "Json/Bag_Bagca/Manqallar/Mehtap/Mehtap_5.jpg"
+                },
+                {
+                    "ad": "BARBEKYU PİKNİK 28*45 SM 9010",
+                    "aciklama": "Açıq havada yeməklərinizi ləzzətlə hazırlamaq üçün ideal seçimdir.",
+                    "qiymet": 100.00,
+                    "stok": 35,
+                    "sekil": "Json/Bag_Bagca/Manqallar/Mehtap/Mehtap_6.jpg"
+                }
+            ]
+        }       
+    ],
+    "Bagca_Aletleri":[
+        {
+            "marka": "OMID",
+            "Mehsullar": [
+                {
+                    "ad": "SAİT ŞUMLAMA ALƏTİ SAPLI ",
+                    "aciklama": "Bağçılıq işləriniz üçün ideal və dayanıqlı Sap.",
+                    "qiymet": 15.00,
+                    "stok": 50,
+                    "sekil": "Json/Bag_Bagca/Bagca_Aletleri/OMID/OMID_1.jpg"
+                },
+                {
+                    "ad": "SAİT KÜLÜNG BAŞI 2 KQ",
+                    "aciklama": "Torpağı hazırlamaq və yumuşaltmaq üçün mükəmməl seçimdir.",
+                    "qiymet": 8.00,
+                    "stok": 45,
+                    "sekil": "Json/Bag_Bagca/Bagca_Aletleri/OMID/OMID_2.jpg"
+                },
+                {
+                    "ad": "HILLFAN PLASTİK KÜRƏK YAŞIL",
+                    "aciklama": "Bağınızda otları rahatlıqla təmizləmək üçün ideal alət.",
+                    "qiymet": 0.50,
+                    "stok": 30,
+                    "sekil": "Json/Bag_Bagca/Bagca_Aletleri/OMID/OMID_3.jpg"
+                },
+                {
+                    "ad": "HILLFAN PLASTİK DIRMIX YAŞIL",
+                    "aciklama": "Kiçik bağ işləri üçün istifadə edilə bilən yüngül və güclü dəryaz.",
+                    "qiymet": 0.90,
+                    "stok": 20,
+                    "sekil": "Json/Bag_Bagca/Bagca_Aletleri/OMID/OMID_4.jpg"
+                },
+                {
+                    "ad": "OMID BAĞÇA SÜRGƏSİ",
+                    "aciklama": "Bağçılıq işlərində torpağı hamarlaşdırmaq üçün uyğun.",
+                    "qiymet": 5.00,
+                    "stok": 40,
+                    "sekil": "Json/Bag_Bagca/Bagca_Aletleri/OMID/OMID_5.jpg"
+                },
+                {
+                    "ad": "DÜNYA DİBÇƏK PLASTİK 2300 ML ",
+                    "aciklama": "Çiçək və fidan əkmək üçün mükəmməl bir vasitə.",
+                    "qiymet": 2.50,
+                    "stok": 35,
+                    "sekil": "Json/Bag_Bagca/Bagca_Aletleri/OMID/OMID_6.jpg"
+                },
+                {
+                    "ad": "DESA LAPATKA ƏYRİ BÖYÜK",
+                    "aciklama": "Torpağı hazırlamaq və yumuşaltmaq üçün mükəmməl seçimdir.",
+                    "qiymet": 8.00,
+                    "stok": 45,
+                    "sekil": "Json/Bag_Bagca/Bagca_Aletleri/OMID/OMID_7.jpg"
+                },
+                {
+                    "ad": "DESA LAPATKA ƏYRİ NO6",
+                    "aciklama": "Bağınızda otları rahatlıqla təmizləmək üçün ideal alət.",
+                    "qiymet": 0.50,
+                    "stok": 30,
+                    "sekil": "Json/Bag_Bagca/Bagca_Aletleri/OMID/OMID_8.jpg"
+                },
+                {
+                    "ad": "DESA LAPATKA ƏYRİ NO4",
+                    "aciklama": "Kiçik bağ işləri üçün istifadə edilə bilən yüngül və güclü dəryaz.",
+                    "qiymet": 0.90,
+                    "stok": 20,
+                    "sekil": "Json/Bag_Bagca/Bagca_Aletleri/OMID/OMID_9.jpg"
+                },
+                {
+                    "ad": "DESA ŞUMLAMA ALƏTİ DÇ0202",
+                    "aciklama": "Bağçılıq işlərində torpağı hamarlaşdırmaq üçün uyğun.",
+                    "qiymet": 5.00,
+                    "stok": 40,
+                    "sekil": "Json/Bag_Bagca/Bagca_Aletleri/OMID/OMID_10.jpg"
+                },
+                {
+                    "ad": "DESA ŞUMLAMA ALƏTİ ÇÇ0080",
+                    "aciklama": "Bağçılıq işlərində torpağı hamarlaşdırmaq üçün uyğun.",
+                    "qiymet": 2.50,
+                    "stok": 35,
+                    "sekil": "Json/Bag_Bagca/Bagca_Aletleri/OMID/OMID_11.jpg"
+                },
+                {
+                    "ad": "C/F QAYÇI BAĞ DÖNƏN SAPLI",
+                    "aciklama": "Kiçik bağ işləri üçün istifadə edilə bilən yüngül və güclü qayçı",
+                    "qiymet": 2.50,
+                    "stok": 35,
+                    "sekil": "Json/Bag_Bagca/Bagca_Aletleri/OMID/OMID_12.jpg"
+                }
+            ]
+        }   
+    ],
+    "Bag-eyvan_aksesuarlari":[
+        {
+            "marka": "OMID",
+            "Mehsullar": [
+                {
+                    "ad": "YELLƏNCƏK ROYAL METAL GÖVDƏ",
+                    "aciklama": "Uzun müddət rahat oturma təcrübəsi təmin edən müasir və dəbli dizayn.",
+                    "qiymet": 320.00,
+                    "stok": 50,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_1.jpg"
+                },
+                {
+                    "ad": "MASA RATTAN ELİTE 90X150",
+                    "aciklama": "Ofis işləri üçün rahatlıq və erqonomik dəstək təqdim edir.",
+                    "qiymet": 150.00,
+                    "stok": 40,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_2.jpg"
+                },
+                {
+                    "ad": "MASA QATLANAN METAL AYAQLI 80X140",
+                    "aciklama": "Açıq hava şərtlərinə uyğun, davamlı və rahat oturacaq.",
+                    "qiymet": 95.00,
+                    "stok": 30,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_3.jpg"
+                },
+                {
+                    "ad": "STUL PLASTİK 864-A MEGAN",
+                    "aciklama": "Kamp və səyahət üçün yüngül və daşınması asan ideal oturacaq.",
+                    "qiymet": 85.00,
+                    "stok": 25,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_4.jpg"
+                },
+                {
+                    "ad": "STUL PLASTİK 862-B VITO",
+                    "aciklama": "Lüks dəridən hazırlanmış, şık və yüksək komfortlu oturacaq.",
+                    "qiymet": 25.00,
+                    "stok": 20,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_5.jpg"
+                },
+                {
+                    "ad": "STUL PLASTİK 531",
+                    "aciklama": "Uşaqlar üçün təhlükəsiz və rəngarəng dizaynlı oturacaq.",
+                    "qiymet": 25.90,
+                    "stok": 15,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_6.jpg"
+                },
+                {
+                    "ad": "STUL PLASTİK BÖYÜK BOY",
+                    "aciklama": "Uzun müddət rahat oturma təcrübəsi təmin edən müasir və dəbli dizayn.",
+                    "qiymet": 320.00,
+                    "stok": 50,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_7.jpg"
+                },
+                {
+                    "ad": "PİKNİK SƏBƏTİ",
+                    "aciklama": "Ofis işləri üçün rahatlıq və erqonomik dəstək təqdim edir.",
+                    "qiymet": 150.00,
+                    "stok": 40,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_8.jpg"
+                },
+                {
+                    "ad": "QATLANAN OTURACAQ PİKNİK QARA",
+                    "aciklama": "Açıq hava şərtlərinə uyğun, davamlı və rahat oturacaq.",
+                    "qiymet": 17.00,
+                    "stok": 30,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_9.jpg"
+                },
+                {
+                    "ad": "STUL RATTAN LİZA",
+                    "aciklama": "Kamp və səyahət üçün yüngül və daşınması asan ideal oturacaq.",
+                    "qiymet": 85.00,
+                    "stok": 25,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_10.jpg"
+                },
+                {
+                    "ad": "STUL QATLANAN PLASTİK BÖYÜK BOY",
+                    "aciklama": "Lüks dəridən hazırlanmış, şık və yüksək komfortlu oturacaq.",
+                    "qiymet": 25.00,
+                    "stok": 20,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_11.jpg"
+                },
+                {
+                    "ad": "STUL PLASTİK UŞAQ ÜÇÜN",
+                    "aciklama": "Uşaqlar üçün təhlükəsiz və rəngarəng dizaynlı oturacaq.",
+                    "qiymet": 25.90,
+                    "stok": 15,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_12.jpg"
+                },
+                {
+                    "ad": "QATLANAN OTURACAQ ÇƏTİRLİ BOZ",
+                    "aciklama": "Kamp və səyahət üçün yüngül və daşınması asan ideal oturacaq.",
+                    "qiymet": 85.00,
+                    "stok": 25,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_13.jpg"
+                },
+                {
+                    "ad": "QATLANAN OTURACAQ PİKNİK QARA",
+                    "aciklama": "Lüks dəridən hazırlanmış, şık və yüksək komfortlu oturacaq.",
+                    "qiymet": 25.00,
+                    "stok": 20,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_14.jpg"
+                },
+                {
+                    "ad": "QATLANAN OTURACAQ PİKNİK MAVI",
+                    "aciklama": "Uşaqlar üçün təhlükəsiz və rəngarəng dizaynlı oturacaq.",
+                    "qiymet": 25.90,
+                    "stok": 15,
+                    "sekil": "Json/Bag_Bagca/bag-eyvan_aksesuarlari/OMID/OMID_15.jpg"
+                }
+            ]
+        }        
+    ]
+}

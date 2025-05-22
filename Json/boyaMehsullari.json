@@ -1,0 +1,878 @@
+{
+    "Su_esasli": [
+      {
+        "marka": "Sobsan",
+        "Mehsullar": [
+          {
+            "ad": "Eksteryer Boyası",
+            "aciklama": "Fasad üçün davamlı boyadır.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 20.00, "stok": 50 },
+              { "litraj": 10, "qiymet": 38.00, "stok": 20 },
+              { "litraj": 15, "qiymet": 55.00, "stok": 30 }
+            ],
+            "sekil": "Json/BoyaMehsullari/Su_esasli/Sobsan/antibakterialb.png"
+          },
+          {
+            "ad": "İnteryer Latex Boyası",
+            "aciklama": "Divar və tavan üçün lateks boyası.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 15.00, "stok": 40 },
+              { "litraj": 10, "qiymet": 28.00, "stok": 15 },
+              { "litraj": 15, "qiymet": 40.00, "stok": 25 }
+            ],
+            "sekil": "Json/BoyaMehsullari/Su_esasli/Sobsan/sobsilex.png"
+          },
+          {
+            "ad": "Yüksək Parlaq Emal Boyası",
+            "aciklama": "Metal və ağac üçün parlaq emal boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 25.00, "stok": 60 },
+              { "litraj": 10, "qiymet": 48.00, "stok": 30 },
+              { "litraj": 15, "qiymet": 70.00, "stok": 20 }
+            ],
+            "sekil": "Json/BoyaMehsullari/Su_esasli/Sobsan/antibakterialplastik.png"
+          },
+          {
+            "ad": "Super Mat Daxili Boya",
+            "aciklama": "Ev içində xüsusi mat görünüşlü boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 22.00, "stok": 45 },
+              { "litraj": 10, "qiymet": 42.00, "stok": 25 },
+              { "litraj": 15, "qiymet": 60.00, "stok": 35 }
+            ],
+            "sekil": "Json/BoyaMehsullari/Su_esasli/Sobsan/aquaroad.png"
+          },
+          {
+            "ad": "Astar Boyası",
+            "aciklama": "Divar üçün xüsusi astar boyası.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 12.00, "stok": 50 },
+              { "litraj": 10, "qiymet": 24.00, "stok": 20 },
+              { "litraj": 15, "qiymet": 35.00, "stok": 30 }
+            ],
+            "sekil": "Json/BoyaMehsullari/Su_esasli/Sobsan/rulotex.png"
+          },
+          {
+            "ad": "Ekoloji Dost Emal Boyası",
+            "aciklama": "Ekoloji təmiz emal boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 18.00, "stok": 55 },
+              { "litraj": 10, "qiymet": 34.00, "stok": 25 },
+              { "litraj": 15, "qiymet": 50.00, "stok": 20 }
+            ],
+            "sekil": "Json/BoyaMehsullari/Su_esasli/Sobsan/sobexpas.png"
+          },
+          {
+            "ad": "Yarı Parlaq Daxili Boya",
+            "aciklama": "Daxili məkanlar üçün yarı parlaq boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 16.00, "stok": 30 },
+              { "litraj": 10, "qiymet": 30.00, "stok": 10 },
+              { "litraj": 15, "qiymet": 45.00, "stok": 15 }
+            ],
+            "sekil": "Json/BoyaMehsullari/Su_esasli/Sobsan/sobplusluxnew.jpg"
+          },
+          {
+            "ad": "Uşaq Otağı Boyası",
+            "aciklama": "Təhlükəsiz və qoxusuz boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 21.00, "stok": 40 },
+              { "litraj": 10, "qiymet": 40.00, "stok": 25 },
+              { "litraj": 15, "qiymet": 60.00, "stok": 15 }
+            ],
+            "sekil": "Json/BoyaMehsullari/Su_esasli/Sobsan/sobplusnew.png"
+          },
+          {
+            "ad": "Beton Üçün Boya",
+            "aciklama": "Beton səthlər üçün xüsusi boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 30.00, "stok": 35 },
+              { "litraj": 10, "qiymet": 58.00, "stok": 18 },
+              { "litraj": 15, "qiymet": 85.00, "stok": 12 }
+            ],
+            "sekil": "Json/BoyaMehsullari/Su_esasli/Sobsan/sobsaten.png"
+          },
+          {
+            "ad": "Açıq Hava Üçün Lateks Boya",
+            "aciklama": "Açıq hava üçün davamlı boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 26.00, "stok": 50 },
+              { "litraj": 10, "qiymet": 48.00, "stok": 22 },
+              { "litraj": 15, "qiymet": 70.00, "stok": 18 }
+            ],
+            "sekil": "Json/BoyaMehsullari/Su_esasli/Sobsan/sobplastiknew.png"
+          },
+          {
+            "ad": "Qalıcılığı Uzun Boya",
+            "aciklama": "Uzunömürlü səthlər üçün xüsusi boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 28.00, "stok": 60 },
+              { "litraj": 10, "qiymet": 54.00, "stok": 30 },
+              { "litraj": 15, "qiymet": 80.00, "stok": 20 }
+            ],
+            "sekil": "Json/BoyaMehsullari/Su_esasli/Sobsan/sobakrilnew.png"
+          }
+        ]
+      },
+      {
+        "marka": "Fabboya",
+        "Mehsullar": [
+          {
+            "ad": "Silikonlu Divar Boyası",
+            "aciklama": "Suya davamlı silikon əsaslı divar boyası.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 18.00, "stok": 45 },
+              { "litraj": 10, "qiymet": 34.00, "stok": 25 },
+              { "litraj": 15, "qiymet": 50.00, "stok": 35 }
+            ],
+            "sekil": "Fabboya/FabAkril.jpg"
+          },
+          {
+            "ad": "Mat Akrilik Boya",
+            "aciklama": "Mat görünüşlü akrilik boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 22.00, "stok": 50 },
+              { "litraj": 10, "qiymet": 40.00, "stok": 30 },
+              { "litraj": 15, "qiymet": 58.00, "stok": 40 }
+            ],
+            "sekil": "Fabboya/FabSilan.png"
+          },
+          {
+            "ad": "Antibakterial Tavan Boyası",
+            "aciklama": "Tavan üçün antibakterial boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 16.50, "stok": 35 },
+              { "litraj": 10, "qiymet": 30.00, "stok": 20 },
+              { "litraj": 15, "qiymet": 43.50, "stok": 15 }
+            ],
+            "sekil": "Fabboya/FabTavan.jpeg"
+          },
+          {
+            "ad": "Yağlı Boya",
+            "aciklama": "Yüksək parlaq səthlər üçün yağlı boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 25.00, "stok": 40 },
+              { "litraj": 10, "qiymet": 45.00, "stok": 20 },
+              { "litraj": 15, "qiymet": 65.00, "stok": 25 }
+            ],
+            "sekil": "Fabboya/Fabteksturjpeg.jpeg"
+          },
+          {
+            "ad": "Premium Eksteryer Boyası",
+            "aciklama": "Fasadlar üçün yüksək keyfiyyətli boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 28.00, "stok": 50 },
+              { "litraj": 10, "qiymet": 54.00, "stok": 30 },
+              { "litraj": 15, "qiymet": 75.00, "stok": 20 }
+            ],
+            "sekil": "Fabboya/MegaFasko.jpg"
+          },
+          {
+            "ad": "Ekoloji Dost Latex Boyası",
+            "aciklama": "Ekoloji təmiz və qoxusuz lateks boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 20.00, "stok": 45 },
+              { "litraj": 10, "qiymet": 38.00, "stok": 25 },
+              { "litraj": 15, "qiymet": 55.00, "stok": 30 }
+            ],
+            "sekil": "Fabboya/Megalisan.jpg"
+          },
+          {
+            "ad": "Uşaq Otağı Üçün Boya",
+            "aciklama": "Təhlükəsiz, qoxusuz və antibakterial boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 23.00, "stok": 50 },
+              { "litraj": 10, "qiymet": 44.00, "stok": 20 },
+              { "litraj": 15, "qiymet": 63.00, "stok": 25 }
+            ],
+            "sekil": "Fabboya/Megaluks.jpg"
+          },
+          {
+            "ad": "Beton Üçün Örtücü Boya",
+            "aciklama": "Beton səthlər üçün xüsusi örtücü boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 30.00, "stok": 35 },
+              { "litraj": 10, "qiymet": 58.00, "stok": 18 },
+              { "litraj": 15, "qiymet": 85.00, "stok": 12 }
+            ],
+            "sekil": "Fabboya/MegaPlus.jpeg"
+          },
+          {
+            "ad": "Yarı Mat Akrilik Boya",
+            "aciklama": "Hamar səthlər üçün yarı mat görünüşlü boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 24.00, "stok": 40 },
+              { "litraj": 10, "qiymet": 46.00, "stok": 22 },
+              { "litraj": 15, "qiymet": 67.00, "stok": 18 }
+            ],
+            "sekil": "Fabboya/MegaSedef.jpeg"
+          },
+          {
+            "ad": "Suya Dayanıklı Astar",
+            "aciklama": "Divar səthlərini hazırlamaq üçün suya davamlı astar.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 15.00, "stok": 50 },
+              { "litraj": 10, "qiymet": 28.00, "stok": 20 },
+              { "litraj": 15, "qiymet": 40.00, "stok": 25 }
+            ],
+            "sekil": "Fabboya/Megasil.jpeg"
+          },
+          {
+            "ad": "Açıq Hava Üçün Lateks Boya",
+            "aciklama": "Hər cür hava şəraitinə uyğun davamlı boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 26.00, "stok": 48 },
+              { "litraj": 10, "qiymet": 52.00, "stok": 22 },
+              { "litraj": 15, "qiymet": 76.00, "stok": 18 }
+            ],
+            "sekil": "Fabboya/parkevemobilya.jpeg"
+          }
+        ]
+      },
+      {
+        "marka": "Betek",
+        "Mehsullar": [
+          {
+            "ad": "Isıya Dayanıklı Boya",
+            "aciklama": "Yüksək temperatur şəraitinə qarşı davamlı boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 35.00, "stok": 40 },
+              { "litraj": 10, "qiymet": 68.00, "stok": 20 },
+              { "litraj": 15, "qiymet": 100.00, "stok": 15 }
+            ],
+            "sekil": "BetekBoya/BetekMax.jpeg"
+          },
+          {
+            "ad": "Antik Görünüşlü Boya",
+            "aciklama": "Antik görünüş yaradan xüsusi dekorativ boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 42.00, "stok": 35 },
+              { "litraj": 10, "qiymet": 82.00, "stok": 18 },
+              { "litraj": 15, "qiymet": 120.00, "stok": 12 }
+            ],
+            "sekil": "BetekBoya/BetekPlastic.jpeg"
+          },
+          {
+            "ad": "Daxili Mat Boya",
+            "aciklama": "Daxili məkanlarda istifadəyə uyğun mat boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 28.00, "stok": 50 },
+              { "litraj": 10, "qiymet": 54.00, "stok": 25 },
+              { "litraj": 15, "qiymet": 78.00, "stok": 20 }
+            ],
+            "sekil": "BetekBoya/BetekPrimer.jpeg"
+          },
+          {
+            "ad": "Premium Akrilik Boya",
+            "aciklama": "Akrilik əsaslı yüksək keyfiyyətli boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 30.00, "stok": 55 },
+              { "litraj": 10, "qiymet": 58.00, "stok": 30 },
+              { "litraj": 15, "qiymet": 85.00, "stok": 18 }
+            ],
+            "sekil": "BetekBoya/BetekPro.jpeg"
+          },
+          {
+            "ad": "Beton Üçün Boya",
+            "aciklama": "Beton səthlərdə istifadə üçün davamlı boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 36.00, "stok": 48 },
+              { "litraj": 10, "qiymet": 70.00, "stok": 22 },
+              { "litraj": 15, "qiymet": 100.00, "stok": 15 }
+            ],
+            "sekil": "BetekBoya/BetekSatin.jpeg"
+          },
+          {
+            "ad": "Suya Dayanıklı Boya",
+            "aciklama": "Suya qarşı maksimum qoruma təmin edən boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 32.00, "stok": 50 },
+              { "litraj": 10, "qiymet": 60.00, "stok": 28 },
+              { "litraj": 15, "qiymet": 90.00, "stok": 18 }
+            ],
+            "sekil": "BetekBoya/BetekSil.jpeg"
+          },
+          {
+            "ad": "Dekoratif Sedef Boya",
+            "aciklama": "Daxili və eksteryer səthlər üçün dekorativ sedef boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 38.00, "stok": 40 },
+              { "litraj": 10, "qiymet": 72.00, "stok": 20 },
+              { "litraj": 15, "qiymet": 110.00, "stok": 12 }
+            ],
+            "sekil": "BetekBoya/BetekSilan.jpeg"
+          },
+          {
+            "ad": "Uşaq Otağı Boyası",
+            "aciklama": "Uşaqlar üçün təhlükəsiz, qoxusuz və antibakterial boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 25.00, "stok": 45 },
+              { "litraj": 10, "qiymet": 48.00, "stok": 22 },
+              { "litraj": 15, "qiymet": 70.00, "stok": 15 }
+            ],
+            "sekil": "BetekBoya/BetekSilk.jpeg"
+          },
+          {
+            "ad": "Eksteryer Latex Boyası",
+            "aciklama": "Eksteryer üçün yüksək davamlı lateks boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 30.00, "stok": 55 },
+              { "litraj": 10, "qiymet": 58.00, "stok": 25 },
+              { "litraj": 15, "qiymet": 85.00, "stok": 12 }
+            ],
+            "sekil": "BetekBoya/Beteksill.jpeg"
+          },
+          {
+            "ad": "Açıq Hava Üçün Mat Boya",
+            "aciklama": "Açıq hava şəraitinə uyğun mat boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 28.00, "stok": 40 },
+              { "litraj": 10, "qiymet": 54.00, "stok": 18 },
+              { "litraj": 15, "qiymet": 80.00, "stok": 10 }
+            ],
+            "sekil": "BetekBoya/BetekSuperPlus.jpeg"
+          },
+          {
+            "ad": "Sürətli Quruyan Boya",
+            "aciklama": "Sürətli quruma xüsusiyyəti ilə seçilən boya.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 26.00, "stok": 48 },
+              { "litraj": 10, "qiymet": 50.00, "stok": 20 },
+              { "litraj": 15, "qiymet": 75.00, "stok": 15 }
+            ],
+            "sekil": "BetekBoya/ExteriorPaste.jpeg"
+          }
+        ]
+      }
+    ],
+    "Sellulozik_Sintetik_esasli":[
+      {
+        "marka": "sobsan",
+        "Mehsullar": [
+          {
+            "ad": "Parlak Lak",
+            "aciklama": "Ağac səthlər üçün yüksək parlaq son qat lak.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 26.00, "stok": 48 },
+              { "litraj": 10, "qiymet": 50.00, "stok": 20 },
+              { "litraj": 15, "qiymet": 75.00, "stok": 15 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobluxParlaqBoya.jpg"
+          },
+          {
+            "ad": "Mat Lak",
+            "aciklama": "Ağac və metal səthlər üçün mat görünüş təmin edən lak.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 28.00, "stok": 40 },
+              { "litraj": 10, "qiymet": 55.00, "stok": 18 },
+              { "litraj": 15, "qiymet": 80.00, "stok": 12 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/Sobsan_MDF_Astar.jpg"
+          },
+          {
+            "ad": "Yarı Mat Lak",
+            "aciklama": "Hamar və davamlı səthlər üçün yarı mat lak.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 27.00, "stok": 45 },
+              { "litraj": 10, "qiymet": 52.00, "stok": 22 },
+              { "litraj": 15, "qiymet": 78.00, "stok": 15 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsanAntipas.jpg"
+          },
+          {
+            "ad": "Çizilməyə Dayanıklı Lak",
+            "aciklama": "Çizilməyə yüksək müqavimət təmin edən lak.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 30.00, "stok": 40 },
+              { "litraj": 10, "qiymet": 58.00, "stok": 20 },
+              { "litraj": 15, "qiymet": 85.00, "stok": 10 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsanBronzBoya.png"
+          },
+          {
+            "ad": "Dış Mekan Lak",
+            "aciklama": "Açıq hava şəraitinə qarşı qoruyucu lak.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 32.00, "stok": 35 },
+              { "litraj": 10, "qiymet": 60.00, "stok": 18 },
+              { "litraj": 15, "qiymet": 90.00, "stok": 12 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsanHammerton.jpg"
+          },
+          {
+            "ad": "Hızlı Kuruyan Lak",
+            "aciklama": "Sürətli quruma təmin edən yüksək keyfiyyətli lak.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 25.00, "stok": 42 },
+              { "litraj": 10, "qiymet": 48.00, "stok": 25 },
+              { "litraj": 15, "qiymet": 70.00, "stok": 15 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsanMatBoya.jpg"
+          },
+          {
+            "ad": "UV Qoruyucu Lak",
+            "aciklama": "Günəş işığından qoruyan xüsusi UV lak.",
+            "litrajlar": [
+              { "litraj": 5, "qiymet": 30.00, "stok": 45 },
+              { "litraj": 10, "qiymet": 58.00, "stok": 20 },
+              { "litraj": 15, "qiymet": 90.00, "stok": 10 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsanMatParketLaki.jpg"
+          },
+          {
+            "ad": "Ekoloji Lak",
+            "aciklama": "Ekoloji dost materiallardan hazırlanan lak.",
+            "litrajlar": [
+                { "litraj": 5, "qiymet": 22.00, "stok": 48 },
+                { "litraj": 10, "qiymet": 42.00, "stok": 25 },
+                { "litraj": 15, "qiymet": 65.00, "stok": 18 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsanMetalAstar.jpg"
+          },
+          {
+            "ad": "Dekoratif Sedef Lak",
+            "aciklama": "Dekorativ məqsədlər üçün sedef görünümlü lak.",
+            "litrajlar": [
+                  { "litraj": 5, "qiymet": 33.00, "stok": 36 },
+                  { "litraj": 10, "qiymet": 62.00, "stok": 20 },
+                  { "litraj": 15, "qiymet": 88.00, "stok": 15 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsanParlakLak.jpg"
+          },
+          {
+            "ad": "Şeffaf Koruyucu Lak",
+            "aciklama": "Ağac səthləri qorumaq üçün şəffaf lak.",
+            "litrajlar": [
+                  { "litraj": 5, "qiymet": 24.00, "stok": 50 },
+                  { "litraj": 10, "qiymet": 45.00, "stok": 22 },
+                  { "litraj": 15, "qiymet": 65.00, "stok": 17 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsanParlaqParketLaki.jpg"
+          },
+          {
+            "ad": "Akrilik Lak",
+            "aciklama": "Akrilik əsaslı yüksək keyfiyyətli lak.",
+            "litrajlar": [
+                  { "litraj": 5, "qiymet": 28.00, "stok": 50 },
+                  { "litraj": 10, "qiymet": 54.00, "stok": 25 },
+                  { "litraj": 15, "qiymet": 78.00, "stok": 20 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsanRapidAstar.jpg"
+          },
+          {
+            "ad": "SobMarin Lak",
+            "aciklama": "Akrilik əsaslı yüksək keyfiyyətli lak.",
+            "litrajlar": [
+                  { "litraj": 5, "qiymet": 28.00, "stok": 50 },
+                  { "litraj": 10, "qiymet": 54.00, "stok": 25 },
+                  { "litraj": 15, "qiymet": 78.00, "stok": 20 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsanSobmarin.jpg"
+          },
+          {
+            "ad": "SuperMat Boya",
+            "aciklama": "Akrilik əsaslı yüksək keyfiyyətli lak.",
+            "litrajlar": [
+                  { "litraj": 5, "qiymet": 28.00, "stok": 50 },
+                  { "litraj": 10, "qiymet": 54.00, "stok": 25 },
+                  { "litraj": 15, "qiymet": 78.00, "stok": 20 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsanSuperMatBoya.png"
+          },
+          {
+            "ad": "Yol Boyası",
+            "aciklama": "Akrilik əsaslı yüksək keyfiyyətli lak.",
+            "litrajlar": [
+                  { "litraj": 5, "qiymet": 28.00, "stok": 50 },
+                  { "litraj": 10, "qiymet": 54.00, "stok": 25 },
+                  { "litraj": 15, "qiymet": 78.00, "stok": 20 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsanYolBoyasi.png"
+          },
+          {
+            "ad": "Sobset Das Lakı",
+            "aciklama": "Akrilik əsaslı yüksək keyfiyyətli lak.",
+            "litrajlar": [
+                  { "litraj": 5, "qiymet": 28.00, "stok": 50 },
+                  { "litraj": 10, "qiymet": 54.00, "stok": 25 },
+                  { "litraj": 15, "qiymet": 78.00, "stok": 20 }
+            ],
+            "sekil": "Sobsanboya/SobsanSellulozik_Sintetik_esasli/SobsetDaslaki.png"
+          }
+        ]
+      },
+      {
+        "marka": "fab",
+        "Mehsullar": [
+          {
+              "ad": "Parlak Lak",
+              "aciklama": "Ağac səthlər üçün yüksək parlaq son qat lak.",
+              "litrajlar": [
+                  { "litraj": 5, "qiymet": 26.00, "stok": 48 },
+                  { "litraj": 10, "qiymet": 50.00, "stok": 20 },
+                  { "litraj": 15, "qiymet": 75.00, "stok": 15 }
+              ],
+              "sekil": "Fabboya/Sellulozik_Sintetik_esasli/Fab_ss_1.jpg"
+          },
+          {
+              "ad": "Mat Lak",
+              "aciklama": "Ağac və metal səthlər üçün mat görünüş təmin edən lak.",
+              "litrajlar": [
+                  { "litraj": 5, "qiymet": 28.00, "stok": 40 },
+                  { "litraj": 10, "qiymet": 55.00, "stok": 18 },
+                  { "litraj": 15, "qiymet": 80.00, "stok": 12 }
+              ],
+              "sekil": "Fabboya/Sellulozik_Sintetik_esasli/Fab_ss_2.jpg"
+          },
+          {
+              "ad": "Yarı Mat Lak",
+              "aciklama": "Hamar və davamlı səthlər üçün yarı mat lak.",
+              "litrajlar": [
+                  { "litraj": 5, "qiymet": 27.00, "stok": 45 },
+                  { "litraj": 10, "qiymet": 52.00, "stok": 22 },
+                  { "litraj": 15, "qiymet": 78.00, "stok": 15 }
+              ],
+              "sekil": "Fabboya/Sellulozik_Sintetik_esasli/Fab_ss_3.jpg"
+          },
+          {
+              "ad": "Çizilməyə Dayanıklı Lak",
+              "aciklama": "Çizilməyə yüksək müqavimət təmin edən lak.",
+              "litrajlar": [
+                  { "litraj": 5, "qiymet": 30.00, "stok": 40 },
+                  { "litraj": 10, "qiymet": 58.00, "stok": 20 },
+                  { "litraj": 15, "qiymet": 85.00, "stok": 10 }
+              ],
+              "sekil": "Fabboya/Sellulozik_Sintetik_esasli/Fab_ss_4.jpg"
+          },
+          {
+              "ad": "Dış Mekan Lak",
+              "aciklama": "Açıq hava şəraitinə qarşı qoruyucu lak.",
+              "litrajlar": [
+                  { "litraj": 5, "qiymet": 32.00, "stok": 35 },
+                  { "litraj": 10, "qiymet": 60.00, "stok": 18 },
+                  { "litraj": 15, "qiymet": 90.00, "stok": 12 }
+              ],
+              "sekil": "Fabboya/Sellulozik_Sintetik_esasli/Fab_ss_5.jpg"
+          },
+          {
+              "ad": "Hızlı Kuruyan Lak",
+              "aciklama": "Sürətli quruma təmin edən yüksək keyfiyyətli lak.",
+              "litrajlar": [
+                  { "litraj": 5, "qiymet": 25.00, "stok": 42 },
+                  { "litraj": 10, "qiymet": 48.00, "stok": 25 },
+                  { "litraj": 15, "qiymet": 70.00, "stok": 15 }
+              ],
+              "sekil": "Fabboya/Sellulozik_Sintetik_esasli/Fab_ss_6.jpg"
+          },
+          {
+              "ad": "UV Qoruyucu Lak",
+              "aciklama": "Günəş işığından qoruyan xüsusi UV lak.",
+              "litrajlar": [
+                  { "litraj": 5, "qiymet": 30.00, "stok": 45 },
+                  { "litraj": 10, "qiymet": 58.00, "stok": 20 },
+                  { "litraj": 15, "qiymet": 90.00, "stok": 10 }
+              ],
+              "sekil": "Fabboya/Sellulozik_Sintetik_esasli/Fab_ss_7.jpg"
+          },
+          {
+              "ad": "Ekoloji Lak",
+              "aciklama": "Ekoloji dost materiallardan hazırlanan lak.",
+              "litrajlar": [
+                  { "litraj": 5, "qiymet": 22.00, "stok": 48 },
+                  { "litraj": 10, "qiymet": 42.00, "stok": 25 },
+                  { "litraj": 15, "qiymet": 65.00, "stok": 18 }
+              ],
+              "sekil": "Fabboya/Sellulozik_Sintetik_esasli/Fab_ss_8.jpg"
+          }
+    ]
+      },
+      {
+        "marka": "filliboya",
+        "Mehsullar": [
+            {
+                "ad": "Parlak Lak",
+                "aciklama": "Ahşap yüzeyler için yüksek parlak son kat lak.",
+                "litrajlar": [
+                    { "litraj": 5, "qiymet": 30.00, "stok": 50 },
+                    { "litraj": 10, "qiymet": 55.00, "stok": 30 },
+                    { "litraj": 15, "qiymet": 80.00, "stok": 20 }
+                ],
+                "sekil": "Filliboya/Sellulozik_Sintetik_esasli/Filli_Boya_ss_1.png"
+            },
+            {
+                "ad": "Mat Lak",
+                "aciklama": "Ahşap ve metal yüzeyler için mat görünüm sağlayan lak.",
+                "litrajlar": [
+                    { "litraj": 5, "qiymet": 32.00, "stok": 40 },
+                    { "litraj": 10, "qiymet": 60.00, "stok": 25 },
+                    { "litraj": 15, "qiymet": 85.00, "stok": 15 }
+                ],
+                "sekil": "Filliboya/Sellulozik_Sintetik_esasli/Filli_Boya_ss_2.png"
+            },
+            {
+                "ad": "Yarı Mat Lak",
+                "aciklama": "Pürüzsüz ve dayanıklı yüzeyler için yarı mat lak.",
+                "litrajlar": [
+                    { "litraj": 5, "qiymet": 35.00, "stok": 45 },
+                    { "litraj": 10, "qiymet": 65.00, "stok": 20 },
+                    { "litraj": 15, "qiymet": 90.00, "stok": 10 }
+                ],
+                "sekil": "Filliboya/Sellulozik_Sintetik_esasli/Filli_Boya_ss_3.png"
+            },
+            {
+                "ad": "Çizilmeye Dayanıklı Lak",
+                "aciklama": "Çizilmelere karşı yüksek dayanıklılık sağlayan lak.",
+                "litrajlar": [
+                    { "litraj": 5, "qiymet": 40.00, "stok": 35 },
+                    { "litraj": 10, "qiymet": 75.00, "stok": 15 },
+                    { "litraj": 15, "qiymet": 100.00, "stok": 8 }
+                ],
+                "sekil": "Filliboya/Sellulozik_Sintetik_esasli/Filli_Boya_ss_4.png"
+            },
+            {
+                "ad": "Dış Mekan Lak",
+                "aciklama": "Açık hava koşullarına karşı dayanıklı koruyucu lak.",
+                "litrajlar": [
+                    { "litraj": 5, "qiymet": 38.00, "stok": 30 },
+                    { "litraj": 10, "qiymet": 70.00, "stok": 20 },
+                    { "litraj": 15, "qiymet": 95.00, "stok": 10 }
+                ],
+                "sekil": "Filliboya/Sellulozik_Sintetik_esasli/Filli_Boya_ss_5.png"
+            },
+            {
+                "ad": "Hızlı Kuruyan Lak",
+                "aciklama": "Hızlı kuruma sağlayan yüksek kaliteli lak.",
+                "litrajlar": [
+                    { "litraj": 5, "qiymet": 28.00, "stok": 40 },
+                    { "litraj": 10, "qiymet": 50.00, "stok": 18 },
+                    { "litraj": 15, "qiymet": 75.00, "stok": 12 }
+                ],
+                "sekil": "Filliboya/Sellulozik_Sintetik_esasli/Filli_Boya_ss_6.png"
+            },
+            {
+                "ad": "UV Koruyucu Lak",
+                "aciklama": "Güneş ışınlarına karşı özel koruma sağlayan UV lak.",
+                "litrajlar": [
+                    { "litraj": 5, "qiymet": 42.00, "stok": 28 },
+                    { "litraj": 10, "qiymet": 80.00, "stok": 15 },
+                    { "litraj": 15, "qiymet": 110.00, "stok": 5 }
+                ],
+                "sekil": "Filliboya/Sellulozik_Sintetik_esasli/Filli_Boya_ss_7.png"
+            },
+            {
+                "ad": "Ekolojik Lak",
+                "aciklama": "Ekolojik dost malzemelerle üretilmiş koruyucu lak.",
+                "litrajlar": [
+                    { "litraj": 5, "qiymet": 25.00, "stok": 50 },
+                    { "litraj": 10, "qiymet": 48.00, "stok": 30 },
+                    { "litraj": 15, "qiymet": 70.00, "stok": 18 }
+                ],
+                "sekil": "Filliboya/Sellulozik_Sintetik_esasli/Filli_Boya_ss_8.png"
+            }
+        ]
+      }
+    ],
+    "Boyaci_aletleri":[
+      {
+          "marka": "stargil",
+          "Mehsullar": [
+              {
+                  "ad": "Stargil Boya Fırçası 4X14",
+                  "aciklama": "Çöl məkanlarının taxta səthlərində yağ və boyaları tətbiq etmək üçün istifadə olunur.",
+                  "qiymet": 6.40,
+                  "stok": 75,
+                  "sekil": "Stargil/StargilBoyaFircasi4X14.jpg"
+              },
+              {
+                  "ad": "Stargil Boya Fırçası 3X10",
+                  "aciklama": "Çöl məkanlarının taxta səthlərində yağ və boyaları tətbiq etmək üçün istifadə olunur.",
+                  "qiymet": 4.30,
+                  "stok": 45,
+                  "sekil": "Stargil/StargilBoyaFircasi3X10.jpg"
+              },
+              {
+                "ad": "Stargil Boya Fırçası 3X7",
+                "aciklama": "Çöl məkanlarının taxta səthlərində yağ və boyaları tətbiq etmək üçün istifadə olunur.",
+                "qiymet": 3.50,
+                "stok": 15,
+                "sekil": "Stargil/StargilBoyaFircasi3X7.jpg"
+              },
+              {
+                "ad":"Stargil İncə Kəsdirmə Boya Fırçası N4",
+                "aciklama":"Ekonomik kəsdirmə, bəyaz tüklü, Universal tipli sap",
+                "qiymet":2.50,
+                "stok":55,
+                "sekil":"Stargil/KesdirmeN4.jpg"
+              },
+              {
+                "ad":"Stargil İncə Kəsdirmə Boya Fırçası N3",
+                "aciklama":"Ekonomik kəsdirmə, bəyaz tüklü, Universal tipli sap",
+                "qiymet":1.90,
+                "stok":45,
+                "sekil":"Stargil/KesdirmeN3.jpg"
+              },
+              {
+                "ad":"Stargil İncə Kəsdirmə Boya Fırçası N2.5",
+                "aciklama":"Ekonomik kəsdirmə, bəyaz tüklü, Universal tipli sap",
+                "qiymet":1.50,
+                "stok":25,
+                "sekil":"Stargil/KesdirmeN2.5.jpg"
+              },
+              {
+                "ad":"Stargil İncə Kəsdirmə Boya Fırçası N1.5",
+                "aciklama":"Ekonomik kəsdirmə, bəyaz tüklü, Universal tipli sap",
+                "qiymet":1.25,
+                "stok":35,
+                "sekil":"Stargil/KesdirmeN1.5.jpg"
+              },
+              {
+                "ad":"Stargil O-CH Fırça N2,5",
+                "aciklama":"Ekonomik kəsdirmə, bəyaz tüklü, Universal tipli sap",
+                "qiymet":3.55,
+                "stok":105,
+                "sekil":"Stargil/OCHN2.5.jpg"
+              },
+              {
+                "ad":"Stargil O-CH Fırça N2",
+                "aciklama":"Ekonomik kəsdirmə, bəyaz tüklü, Universal tipli sap",
+                "qiymet":2.55,
+                "stok":105,
+                "sekil":"Stargil/OCHN2.jpg"
+              },
+              {
+                "ad":"Stargil O-CH Fırça N1,5",
+                "aciklama":"Ekonomik kəsdirmə, bəyaz tüklü, Universal tipli sap",
+                "qiymet":1.55,
+                "stok":105,
+                "sekil":"Stargil/OCHN1.5.jpg"
+              },
+              {
+                "ad":"Stargil O-CH Fırça N1",
+                "aciklama":"Ekonomik kəsdirmə, bəyaz tüklü, Universal tipli sap",
+                "qiymet":1.25,
+                "stok":65,
+                "sekil":"Stargil/OCHN1.jpg"
+              }
+          ]
+      },
+      {
+          "marka": "dekor",
+          "Mehsullar": [
+              {
+                  "ad": "DEKOR 1084 EXPORT BARMAQ RULO 10 SM",
+                  "aciklama": "Üzlük və su əsaslı boyalar və düz səthlərdə istifadə olunur.",
+                  "qiymet": 2.30,
+                  "stok": 70,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_1.jpg"
+              },
+              {
+                  "ad": "DEKOR 1080 EXPORT RULO 20 SM",
+                  "aciklama": "Metal yüzeylerde vernik ve boyaları uygulamak için.",
+                  "qiymet": 7.20,
+                  "stok": 50,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_2.jpg"
+              },
+              {
+                  "ad": "DEKOR 1083 EXPORT RULO 10 SM",
+                  "aciklama": "Dekoratif ve detaylı boyama için özel tasarlanmış fırça.",
+                  "qiymet": 5.50,
+                  "stok": 30,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_3.jpg"
+              },
+              {
+                  "ad": "DEKOR 1005 SUPERLUX RULO 10 SM",
+                  "aciklama": "Hassas ve detaylı boyama için ekonomik kestirme fırça.",
+                  "qiymet": 5.65,
+                  "stok": 35,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_4.jpg"
+              },
+              {
+                  "ad": "DEKOR 1117 SÜNGƏR KRİSTAL DƏLİKLİ RULO 20 SM",
+                  "aciklama": "Akrilik əsaslı boyalar iləarici bəzək üçün istifadə olunur.",
+                  "qiymet": 19.10,
+                  "stok": 47,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_5.jpg"
+              },
+              {
+                  "ad": "DEKOR 1003 SUPERLUX RULO 25 SM",
+                  "aciklama": "üperlüks rulo çöl cəbhə boyaları ile istifadə olunur.",
+                  "qiymet": 7.90,
+                  "stok": 20,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_6.jpg"
+              },
+              {
+                  "ad": "DEKOR 1068 MƏXMƏRİ BARMAQ RULO 10 SM",
+                  "aciklama": "Lak və yağ boyaları ilə istifadə olunur",
+                  "qiymet": 15.20,
+                  "stok": 25,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_7.jpg"
+              },
+              {
+                  "ad": "DEKOR 1115 SÜNGƏR BARMAQ RULO 10 SM",
+                  "aciklama": "Üzlük və su əsaslı boyalar ilə düz səthlərdə istifadə olunur.",
+                  "qiymet": 3.55,
+                  "stok": 45,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_8.jpg"
+              },
+              {
+                  "ad": "DEKOR 1112 SÜNGƏR RULO 20 SM",
+                  "aciklama": "Süngər rulon yağ boyaları ilə istifadə olunur",
+                  "qiymet": 7.50,
+                  "stok": 55,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_9.jpg"
+              },
+              {
+                  "ad": "DEKOR 1114 SÜNGƏR RULO 10 SM",
+                  "aciklama": "Süngər rulon yağ boyaları ilə istifadə olunur",
+                  "qiymet": 7.50,
+                  "stok": 55,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_10.jpg"
+              },
+              {
+                  "ad": "DEKOR 1221 EPOKSİ KİRPİ RULO (KIÇİK DİAMETRLİ) 25 SM",
+                  "aciklama": "Süngər rulon yağ boyaları ilə istifadə olunur",
+                  "qiymet": 5.50,
+                  "stok": 75,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_11.jpg"
+              },
+              {
+                  "ad": "DEKOR 1085 EXPORT BARMAQ RULO 15 SM",
+                  "aciklama": "Süngər rulon yağ boyaları ilə istifadə olunur",
+                  "qiymet": 4.50,
+                  "stok": 35,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_12.jpg"
+              },
+              {
+                  "ad": "DEKOR 1088 EXPORT BORU RULO 7 SM",
+                  "aciklama": "Süngər rulon yağ boyaları ilə istifadə olunur",
+                  "qiymet": 9.50,
+                  "stok": 75,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_13.jpg"
+              },
+              {
+                  "ad": "DEKOR ÇÖL CƏBHƏ RULOSU 25 SM 81110",
+                  "aciklama": "Süngər rulon yağ boyaları ilə istifadə olunur",
+                  "qiymet": 3.50,
+                  "stok": 75,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_14.jpg"
+              },
+              {
+                  "ad": "DEKOR ÇÖL CƏBHƏ RULOSU 25 SM 81110",
+                  "aciklama": "Süngər rulon yağ boyaları ilə istifadə olunur",
+                  "qiymet": 3.50,
+                  "stok": 75,
+                  "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_14.jpg"
+              },
+              {
+                "ad": "DEKOR EKSPORT RULO EHTİYAT 10 SM 3 - LÜ",
+                "aciklama": "Süngər rulon yağ boyaları ilə istifadə olunur",
+                "qiymet": 3.50,
+                "stok": 75,
+                "sekil": "Json/BoyaMehsullari/Boyaci_aletleri/Dekor/Dekor_15.jpg"
+            }
+          ]
+      }
+    ]
+  }
+

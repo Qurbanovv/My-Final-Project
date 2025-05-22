@@ -1,0 +1,527 @@
+{
+    "Alci_Suvaq_Materiallari":[
+        {
+            "marka": "Fab",
+            "Mehsullar": [
+                {
+                    "ad": "Fab Fuqa Yaşıl 1KQ",
+                    "aciklama": "Beton çatlaqlarını və boşluqları doldurmaq üçün mükəmməl seçimdir.",
+                    "qiymet": 2.00,
+                    "stok": 40,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_1.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Violet 1KQ",
+                    "aciklama": "Taxta səthlərdəki çatlaqları və zədələri asanlıqla təmir edir.",
+                    "qiymet": 3.00,
+                    "stok": 35,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_2.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Tund Qehveyi 1KQ",
+                    "aciklama": "Sement əsaslı strukturlar üçün dayanıqlı dolgu materialı.",
+                    "qiymet": 2.00,
+                    "stok": 25,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_3.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Tund Mavi 1KQ",
+                    "aciklama": "Keramika və daş plitələr arasındakı boşluqları doldurmaq üçün ideal məhsul.",
+                    "qiymet": 2.00,
+                    "stok": 30,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_4.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Boz 1KQ",
+                    "aciklama": "Elastik xüsusiyyətləri ilə genişlənən səthlər üçün uyğundur.",
+                    "qiymet": 3.00,
+                    "stok": 20,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_5.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Rose-1 1KQ",
+                    "aciklama": "Divar və tavan səthlərini hamarlaşdırmaq üçün istifadə olunur.",
+                    "qiymet": 1.00,
+                    "stok": 25,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_6.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Qirmizi 1KQ",
+                    "aciklama": "Səthlərdəki iri çatlaqları və qeyri-bərabərlikləri düzəltmək üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 2.00,
+                    "stok": 28,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_7.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Qehveyi 1KQ",
+                    "aciklama": "Plastik materiallardakı boşluq və çatları təmir etmək üçün uyğundur.",
+                    "qiymet": 7.00,
+                    "stok": 18,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_8.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Qara 5kq",
+                    "aciklama": "Hər cür səthdə universal istifadəyə malik dolgu materialıdır.",
+                    "qiymet": 3.00,
+                    "stok": 22,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_9.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Qara 1KQ",
+                    "aciklama": "Keramika və daş plitələr arasındakı boşluqları doldurmaq üçün ideal məhsul.",
+                    "qiymet": 2.00,
+                    "stok": 30,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_10.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Mavi 1KQ",
+                    "aciklama": "Elastik xüsusiyyətləri ilə genişlənən səthlər üçün uyğundur.",
+                    "qiymet": 3.00,
+                    "stok": 20,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_11.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Krem-1 1KQ",
+                    "aciklama": "Divar və tavan səthlərini hamarlaşdırmaq üçün istifadə olunur.",
+                    "qiymet": 1.00,
+                    "stok": 25,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_12.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Gul Qurusu-1 1KQ",
+                    "aciklama": "Səthlərdəki iri çatlaqları və qeyri-bərabərlikləri düzəltmək üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 2.00,
+                    "stok": 28,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_13.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Fildisi 5KQ",
+                    "aciklama": "Plastik materiallardakı boşluq və çatları təmir etmək üçün uyğundur.",
+                    "qiymet": 7.00,
+                    "stok": 18,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_14.jpg"
+                },
+                {
+                    "ad": "Fab Fuqa Fildisi 1KQ",
+                    "aciklama": "Hər cür səthdə universal istifadəyə malik dolgu materialıdır.",
+                    "qiymet": 3.00,
+                    "stok": 22,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Fab/Fab_15.jpg"
+                }
+            ]
+        
+        },
+        {
+            "marka":"Beyaz_Alci",
+            "Mehsullar":[
+                {
+                    "ad": "Beyaz Alci Tek Astar 30 KQ",
+                    "aciklama": "Beton çatlaqlarını və boşluqları doldurmaq üçün mükəmməl seçimdir.",
+                    "qiymet": 2.00,
+                    "stok": 40,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Beyaz_Alci/Beyaz_Alci_1.jpg"
+                },
+                {
+                    "ad": "Beyaz Alci Astar 30 KQ",
+                    "aciklama": "Taxta səthlərdəki çatlaqları və zədələri asanlıqla təmir edir.",
+                    "qiymet": 3.00,
+                    "stok": 35,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Beyaz_Alci/Beyaz_Alci_2.jpg"
+                },
+                {
+                    "ad": "Beyaz Alci Uzluk 25 KQ",
+                    "aciklama": "Sement əsaslı strukturlar üçün dayanıqlı dolgu materialı.",
+                    "qiymet": 2.00,
+                    "stok": 25,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Beyaz_Alci/Beyaz_Alci_3.jpg"
+                },
+                {
+                    "ad": "Beyaz Alci Kartonpiyer 30 KQ",
+                    "aciklama": "Keramika və daş plitələr arasındakı boşluqları doldurmaq üçün ideal məhsul.",
+                    "qiymet": 2.00,
+                    "stok": 30,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Beyaz_Alci/Beyaz_Alci_4.jpg"
+                }
+            ]
+        },
+        {
+            "marka": "Dekor",
+            "Mehsullar": [
+                {
+                    "ad": "Dekor Sungerli Mala 14x28sm",
+                    "aciklama": "Divar üzərində mükəmməl səth hamarlaşdırma üçün ideal vasitədir.",
+                    "qiymet": 20.00,
+                    "stok": 50,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Dekor/Dekor_1.jpg"
+                },
+                {
+                    "ad": "DEKOR 1140 EPOKSİ ÜÇÜN HAMARLAŞDIRICI PROFİL 70 SM",
+                    "aciklama": "Plastik səthlər üçün uyğun, yüngül və erqonomik maladır.",
+                    "qiymet": 18.00,
+                    "stok": 40,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Dekor/Dekor_2.jpg"
+                },
+                {
+                    "ad": "DEKOR 261 DİŞLİ KERAMİKA MALASI 30 SM Q.T.S 8X8",
+                    "aciklama": "Davamlı materialdan hazırlanmış ağır iş şəraiti üçün uyğundur.",
+                    "qiymet": 25.00,
+                    "stok": 30,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Dekor/Dekor_3.jpg"
+                },
+                {
+                    "ad": "DEKOR 212 PLASTİK TUTACAQLI ALÇI MALASI 40 SM",
+                    "aciklama": "Dəqiq və sərt səthlərdə uyğun nəticə verən elastik uç dizaynı.",
+                    "qiymet": 22.00,
+                    "stok": 35,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Dekor/Dekor_4.jpg"
+                },
+                {
+                    "ad": "DEKOR 214 PLASTİK TUTACAQLI ALÇI MALASI 50 SM",
+                    "aciklama": "Uzun müddətli istifadəyə uyğun rahat tutacaqlı mala.",
+                    "qiymet": 15.00,
+                    "stok": 60,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Dekor/Dekor_5.jpg"
+                },
+                {
+                    "ad": "DEKOR 210 PLASTİK TUTACAQLI ALÇI MALASI 30 SM",
+                    "aciklama": "İncə təmir işləri və bəzək tətbiqləri üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 19.00,
+                    "stok": 45,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Dekor/Dekor_6.jpg"
+                },
+                {
+                    "ad": "DEKOR 220 ÜÇBUCAQ, DİŞLİ KERAMİKA MALASI 30 SM (PLASTİK TUTACAQLI)",
+                    "aciklama": "Divar və tavan künclərində səmərəli hamarlaşdırma üçün ideal seçimdir.",
+                    "qiymet": 21.00,
+                    "stok": 20,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Dekor/Dekor_7.jpg"
+                },
+                {
+                    "ad": "DEKOR 222 ÜÇBUCAQ, DİŞLİ KERAMİKA MALASI 40 SM (PLASTİK TUTACAQLI)",
+                    "aciklama": "Bütün səthlərdə istifadəyə uyğun universal mala.",
+                    "qiymet": 24.00,
+                    "stok": 25,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Dekor/Dekor_8.jpg"
+                },
+                {
+                    "ad": "DEKOR 234 DİŞLİ KERAMİKA MALASI 50 SM (PLASTİK TUTACAQLI) 8X8",
+                    "aciklama": "Yüngül və davamlı alüminium dizaynlı mala.",
+                    "qiymet": 26.00,
+                    "stok": 30,
+                    "sekil": "Json/InsaatMehsullari/Alci_Suvaq_Materiallari/Dekor/Dekor_9.jpg"
+                }
+            ]
+        }        
+    ],
+    "Slikon,Mastik,Kopuk":[
+        {
+            "marka": "Akfix",
+            "Mehsullar": [
+                {
+                    "ad": "AKFIX 960P POLİURETAN MONTALAMA KÖPÜYÜ 800 ML 4S",
+                    "aciklama": "Universal istifadə üçün nəzərdə tutulmuş yüksək keyfiyyətli silikon.",
+                    "qiymet": 2.00,
+                    "stok": 50,
+                    "sekil": "Json/InsaatMehsullari/Silikonlar_Mastikler_Kopukler/Akfix/Akfix_1.jpg"
+                },
+                {
+                    "ad": "AKFIX 840P B2 PROFESSIONAL KÖPÜK 750 ML 4S",
+                    "aciklama": "Suya qarşı dayanıqlılıq təqdim edən premium mastik məhsul.",
+                    "qiymet": 5.00,
+                    "stok": 40,
+                    "sekil": "Json/InsaatMehsullari/Silikonlar_Mastikler_Kopukler/Akfix/Akfix_2.jpg"
+                },
+                {
+                    "ad": "AKFIX 800C KÖPÜK TƏMİZLƏYİCİ 500 ML",
+                    "aciklama": "Hər cür boşluq doldurma və izolyasiya işləri üçün poliuretan köpük.",
+                    "qiymet": 3.00,
+                    "stok": 35,
+                    "sekil": "Json/InsaatMehsullari/Silikonlar_Mastikler_Kopukler/Akfix/Akfix_3.jpg"
+                },
+                {
+                    "ad": "AKFIX SİLİKON MUM KİÇİK HM208 1 KQ (8 MM)",
+                    "aciklama": "Tez quruyan xüsusiyyəti ilə vaxtınızı qənaətləndirən mastik.",
+                    "qiymet": 22.00,
+                    "stok": 45,
+                    "sekil": "Json/InsaatMehsullari/Silikonlar_Mastikler_Kopukler/Akfix/Akfix_4.jpg"
+                },
+                {
+                    "ad": "AKFIX SİLİKON U H208 1 KQ (11 MM)",
+                    "aciklama": "Şüşə səthlərdə tamamilə şəffaf nəticə təmin edən silikon.",
+                    "qiymet": 28.00,
+                    "stok": 30,
+                    "sekil": "Json/InsaatMehsullari/Silikonlar_Mastikler_Kopukler/Akfix/Akfix_5.jpg"
+                },
+                {
+                    "ad": "AKFIX HT300 SİLİKON B 50 Q QIRMIZI",
+                    "aciklama": "Ağ rəngli səthlərdə istifadəyə uyğun xüsusi poliuretan köpük.",
+                    "qiymet": 32.00,
+                    "stok": 25,
+                    "sekil": "Json/InsaatMehsullari/Silikonlar_Mastikler_Kopukler/Akfix/Akfix_6.jpg"
+                },
+                {
+                    "ad": "AKFIX HT300 SİLİKON QIRMIZI 310 ML",
+                    "aciklama": "Elastik xüsusiyyəti ilə genişlənən və dinamik səthlər üçün uyğundur.",
+                    "qiymet": 35.00,
+                    "stok": 20,
+                    "sekil": "Json/InsaatMehsullari/Silikonlar_Mastikler_Kopukler/Akfix/Akfix_7.jpg"
+                }
+            ]
+        },
+        {
+            "marka": "Fab",
+            "Mehsullar": [
+                {
+                    "ad": "FAB SİLİKON PREMİUM BOZ 280 L",
+                    "aciklama": "Bütün səthlərdə istifadəyə uyğun dolgu materialıdır.",
+                    "qiymet": 5.50,
+                    "stok": 40,
+                    "sekil": "Json/InsaatMehsullari/Dolgu_materiallari/Fab/Fab_1.jpg"
+                },
+                {
+                    "ad": "FAB SİLİKON BEJ 280 L",
+                    "aciklama": "Beton səthlərdə çatlaqları doldurmaq üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 5.00,
+                    "stok": 30,
+                    "sekil": "Json/InsaatMehsullari/Dolgu_materiallari/Fab/Fab_2.jpg"
+                },
+                {
+                    "ad": "FAB SİLİKON PREMİUM QƏHVƏYİ 280 ML",
+                    "aciklama": "Taxta materiallardakı zədələri effektiv şəkildə təmir edir.",
+                    "qiymet": 6.00,
+                    "stok": 35,
+                    "sekil": "Json/InsaatMehsullari/Dolgu_materiallari/Fab/Fab_3.jpg"
+                },
+                {
+                    "ad": "FAB 910N GÜZGÜ SİLİKON 310 ML ŞƏFFAF",
+                    "aciklama": "Sement əsaslı səthlər üçün güclü yapışma təmin edən dolgu.",
+                    "qiymet": 5.50,
+                    "stok": 25,
+                    "sekil": "Json/InsaatMehsullari/Dolgu_materiallari/Fab/Fab_4.jpg"
+                },
+                {
+                    "ad": "FAB 200AQ AKVARİUM SİLİKON 280 ML",
+                    "aciklama": "Plastik səthlərdəki boşluq və çatların təmiri üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 5.75,
+                    "stok": 20,
+                    "sekil": "Json/InsaatMehsullari/Dolgu_materiallari/Fab/Fab_5.jpg"
+                },
+                {
+                    "ad": "FAB SİLİKON PREMİUM ŞƏFFAF 280 ML",
+                    "aciklama": "Dinamik səthlər üçün genişlənən və elastik xüsusiyyətə malik dolgu.",
+                    "qiymet": 6.00,
+                    "stok": 15,
+                    "sekil": "Json/InsaatMehsullari/Dolgu_materiallari/Fab/Fab_6.jpg"
+                },
+                {
+                    "ad": "Fab Şüşə Dolgu Materialı",
+                    "aciklama": "Şüşə səthlərdə şəffaf və dayanıqlı təmir üçün ideal vasitədir.",
+                    "qiymet": 5.25,
+                    "stok": 22,
+                    "sekil": "Json/InsaatMehsullari/Dolgu_materiallari/Fab/Fab_7.jpg"
+                },
+                {
+                    "ad": "FAB 200S NATURAL SİLİKON 280 ML ŞƏFFAF",
+                    "aciklama": "Divar çatlaqlarını və iri boşluqları doldurmaq üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 5.00,
+                    "stok": 18,
+                    "sekil": "Json/InsaatMehsullari/Dolgu_materiallari/Fab/Fab_8.jpg"
+                },
+                {
+                    "ad": "FAB SİLİKON STANDART ŞƏFFAF 300 Q",
+                    "aciklama": "Zərif səth təmiri və bəzək işləri üçün hazırlanmış xüsusi dolgu.",
+                    "qiymet": 5.75,
+                    "stok": 28,
+                    "sekil": "Json/InsaatMehsullari/Dolgu_materiallari/Fab/Fab_9.jpg"
+                },
+                {
+                    "ad": "FAB PUR 645 KOLBASA BOZ 600 L",
+                    "aciklama": "Dinamik səthlər üçün genişlənən və elastik xüsusiyyətə malik dolgu.",
+                    "qiymet": 6.00,
+                    "stok": 15,
+                    "sekil": "Json/InsaatMehsullari/Dolgu_materiallari/Fab/Fab_10.jpg"
+                },
+                {
+                    "ad": "FAB PROFESSIONAL POLİURETAN KÖPÜK 750 ML",
+                    "aciklama": "Şüşə səthlərdə şəffaf və dayanıqlı təmir üçün ideal vasitədir.",
+                    "qiymet": 5.25,
+                    "stok": 22,
+                    "sekil": "Json/InsaatMehsullari/Dolgu_materiallari/Fab/Fab_11.jpg"
+                },
+                {
+                    "ad": "FAB POLİURETAN KÖPÜK PREMİUM 750 ML",
+                    "aciklama": "Divar çatlaqlarını və iri boşluqları doldurmaq üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 5.00,
+                    "stok": 18,
+                    "sekil": "Json/InsaatMehsullari/Dolgu_materiallari/Fab/Fab_12.jpg"
+                }
+            ]
+        }        
+    ],
+    "Yapisdiricilar":[
+        {
+            "marka": "Akfix",
+            "Mehsullar": [
+                {
+                    "ad": "AKFIX E340 EPOXY YAPIŞDIRICISI 25 ML",
+                    "aciklama": "Hər növ materialda güclü yapışma təmin edən universal yapışdırıcı.",
+                    "qiymet": 18.00,
+                    "stok": 50,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Akfix/Akfix_1.jpg"
+                },
+                {
+                    "ad": "AKFIX 202 UNİVERSAL YAPIŞDIRICISI 50 Q",
+                    "aciklama": "Taxta səthlərdə uzunmüddətli və etibarlı yapışma üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 20.00,
+                    "stok": 40,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Akfix/Akfix_2.jpg"
+                },
+                {
+                    "ad": "AKFIX 610 PU MONTAJ YAPIŞDIRICISI 310 ML ŞƏFFAF",
+                    "aciklama": "Tez quruyan xüsusiyyəti ilə vaxt qənaəti təmin edən yapışdırıcı.",
+                    "qiymet": 22.00,
+                    "stok": 30,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Akfix/Akfix_3.jpg"
+                },
+                {
+                    "ad": "AKFIX 202 UNİVERSAL YAPIŞDIRICI 500 Q",
+                    "aciklama": "Şüşə səthlərdə estetik yapışma təqdim edən tamamilə şəffaf yapışdırıcı.",
+                    "qiymet": 19.50,
+                    "stok": 35,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Akfix/Akfix_4.jpg"
+                },
+                {
+                    "ad": "AKFIX 303 SUPER YAPIŞDIRICI 3 Q",
+                    "aciklama": "Dinamik səthlərdə elastik və güclü yapışma xüsusiyyətinə malikdir.",
+                    "qiymet": 25.00,
+                    "stok": 25,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Akfix/Akfix_5.jpg"
+                },
+                {
+                    "ad": "AKFIX 702 SUPER YAPIŞDIRICI 25 Q",
+                    "aciklama": "Metal materiallarda uzun müddətli güclü yapışma təmin edir.",
+                    "qiymet": 23.00,
+                    "stok": 20,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Akfix/Akfix_6.jpg"
+                },
+                {
+                    "ad": "AKFİX R306 PVC BORU YAPIŞDIRICI 50GR",
+                    "aciklama": "Hər növ materialda istifadəyə uyğun universal yapışdırıcı.",
+                    "qiymet": 21.50,
+                    "stok": 28,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Akfix/Akfix_7.jpg"
+                }
+            ]
+        },
+        {
+            "marka": "Fab",
+            "Mehsullar": [
+                {
+                    "ad": "FAB 123 MDF KIT YAPIŞDIRICI B 400 ML + 100 Q",
+                    "aciklama": "Beton səthlərdə möhkəm yapışma üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 18.00,
+                    "stok": 40,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_1.jpg"
+                },
+                {
+                    "ad": "FAB 123 MDF KIT YAPIŞDIRICI B 200 ML + 50 Q",
+                    "aciklama": "Taxta materiallarda uzunmüddətli və güclü yapışma təmin edir.",
+                    "qiymet": 20.00,
+                    "stok": 35,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_2.jpg"
+                },
+                {
+                    "ad": "FAB 615 AKRİLİK MONTAJ YAPIŞDIRICISI 310 ML AĞ",
+                    "aciklama": "Şüşə səthlərdə şəffaf və estetik yapışma təmin edir.",
+                    "qiymet": 22.00,
+                    "stok": 30,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_3.jpg"
+                },
+                {
+                    "ad": "FAB PUR 601 PU TAXTA YAPIŞDIRICISI 500 Q",
+                    "aciklama": "Plastik materiallarda yüksək effektivliklə yapışma təmin edir.",
+                    "qiymet": 19.50,
+                    "stok": 25,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_4.jpg"
+                },
+                {
+                    "ad": "FAB PUR 676 PU DƏMİR YAPIŞDIRICISI 310 ML QARA PA-4512",
+                    "aciklama": "Metal səthlərdə dayanıqlı və güclü yapışma xüsusiyyəti göstərir.",
+                    "qiymet": 21.00,
+                    "stok": 20,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_5.jpg"
+                },
+                {
+                    "ad": "FAB UNIVERSAL PVA 100 QR",
+                    "aciklama": "Hər cür materiallarda istifadəyə uyğun çox funksiyalı yapışdırıcıdır.",
+                    "qiymet": 18.50,
+                    "stok": 45,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_6.jpg"
+                },
+                {
+                    "ad": "FAB UNIVERSAL TUTKAL 10KQ HƏDİYYƏLİ",
+                    "aciklama": "Dinamik səthlər üçün elastiklik və möhkəm yapışma təmin edir.",
+                    "qiymet": 23.00,
+                    "stok": 28,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_7.jpg"
+                },
+                {
+                    "ad": "FAB PVA 750 Q",
+                    "aciklama": "Sürətli yapışma tələb edən işlərdə ideal seçimdir.",
+                    "qiymet": 19.00,
+                    "stok": 25,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_8.jpg"
+                },
+                {
+                    "ad": "FAB PVA 850 Q",
+                    "aciklama": "Səs və istilik izolyasiyası üçün uyğun xüsusiyyətlərə malikdir.",
+                    "qiymet": 24.00,
+                    "stok": 18,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_9.jpg"
+                },
+                {
+                    "ad": "FAB PUR 676 PUR DƏMİR YAPIŞQANI BOZ (PA - 45) 310 ML",
+                    "aciklama": "Dekorativ və estetik səthlərdə istifadə üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 20.50,
+                    "stok": 22,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_10.jpg"
+                },
+                {
+                    "ad": "FAB AKRİLİK MONTAJ YAPIŞDIRICI 310 ML AĞ",
+                    "aciklama": "Çətin materiallarda maksimum yapışma üçün xüsusi hazırlanmışdır.",
+                    "qiymet": 26.00,
+                    "stok": 15,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_11.jpg"
+                },
+                {
+                    "ad": "FAB MƏRMƏR YAPIŞDIRICISI 1,2 kq + 0,04 KQ",
+                    "aciklama": "Sürətli yapışma tələb edən işlərdə ideal seçimdir.",
+                    "qiymet": 19.00,
+                    "stok": 25,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_12.jpg"
+                },
+                {
+                    "ad": "FAB UNIVERSAL TUTKAL 3 KQ",
+                    "aciklama": "Səs və istilik izolyasiyası üçün uyğun xüsusiyyətlərə malikdir.",
+                    "qiymet": 24.00,
+                    "stok": 18,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_13.jpg"
+                },
+                {
+                    "ad": "FAB UNIVERSAL TUTKAL 25 KQ",
+                    "aciklama": "Dekorativ və estetik səthlərdə istifadə üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 20.50,
+                    "stok": 22,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_14.jpg"
+                },
+                {
+                    "ad": "FAB SUPER UNİVERSAL TUTKAL 3 KQ",
+                    "aciklama": "Çətin materiallarda maksimum yapışma üçün xüsusi hazırlanmışdır.",
+                    "qiymet": 26.00,
+                    "stok": 15,
+                    "sekil": "Json/InsaatMehsullari/Yapisdiricilar/Fab/Fab_15.jpg"
+                }
+            ]
+        }        
+    ]
+}

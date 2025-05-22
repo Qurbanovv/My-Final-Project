@@ -1,0 +1,522 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+:root {
+    /* #D61B2E  */
+    /* 🎨 Renkler (Design Color Palette) */
+    --primary-design-color: #ed3237; /* Ana tema rengi (örneğin buton, link, accent) */
+    --secondary-design-color: #f7f7f7; /* İkincil arka plan rengi (hafif gri, arka plan için) */
+    --tertiary-design-color: #ffa300; /* Üçüncül vurgu rengi (örneğin hover durumları, detaylar) */
+  
+    /* 🎨 Swiper Slider Teması */
+    --swiper-theme-color: #ed3237; /* Swiper navigasyon rengi (oklar, pagination noktaları vs.) */
+  
+    /* 🌈 Gradientler */
+    --primary-gradient: linear-gradient(to bottom, #ffc073 -24%, #ed3237 95%); /* Ana geçişli arka plan */
+    --secondary-gradient: linear-gradient(to bottom, rgba(116, 0, 0, 0.43) 25%, rgba(192, 0, 0, 0) 75%); /* Overlay efekt için */
+    --tertiary-gradient: radial-gradient(circle at 44% 76%, #ffb200, #ff6831 111%); /* Radial (dairesel) geçiş */
+    --dynamic-gradient: linear-gradient(-45deg, #ed3237, #ff6831, #ffb200, #ffa300); /* Hareketli veya renkli arka plan için */
+  
+    /* 🖼️ Arka Plan Renkleri */
+    --primary-bg-color: #fff; /* Genel arka plan (beyaz) */
+    --secondary-bg-color: #f9f9f9; /* Alternatif arka plan (açık gri ton) */
+  
+    /* 📝 Metin Renkleri */
+    --primary-text-color: #212121; /* Ana metin rengi */
+    --secondary-text-color: #fff; /* Açık zemin üstü metin (örneğin beyaz metin) */
+    --tertiary-text-color: #474747; /* Yardımcı metin rengi (açıklama, alt başlık vs.) */
+  
+    /* 🔠 Başlık & Link Renkleri */
+    --heading-color: #212121; /* Başlık metin rengi */
+    --category-color: #323232; /* Kategori yazıları için renk */
+    --page-link-color: #6a6a6a; /* Sayfa içi link renkleri */
+    --block-link-color: #323232; /* Blok içi linkler için renk */
+  
+    /* 🅰️ Yazı Tipi */
+    --primary-font: "Open Sans", system-ui; /* Ana font ailesi */
+  
+    /* 🔢 Font Size - Başlıklar */
+    --fs-banner-heading: 28px; /* Banner (büyük başlık) */
+    --fs-sec-heading: 22px; /* İkincil başlıklar */
+    --fs-page-heading: 22px; /* Sayfa başlıkları */
+    --fs-block-heading: 18px; /* Blok başlıkları */
+    --fs-category-heading: 18px; /* Kategori başlıkları */
+    --fs-footer-heading: 14px; /* Footer başlıkları */
+  
+    /* 🔘 Butonlar */
+    --fs-button: 12px; /* Buton yazı boyutu */
+  
+    /* 📏 Genel Font Size Tanımları */
+    --font-size-xs: 12px; /* Çok küçük yazılar (örnek: label) */
+    --font-size-sm: 13px; /* Küçük yazı */
+    --font-size-md: 14px; /* Orta boy yazı (varsayılan olabilir) */
+    --font-size-lg: 15px; /* Bir tık büyük yazı */
+    --font-size-xl: 17px; /* Büyük yazı */
+    --font-size-xxl: 24px; /* Çok büyük yazı (örneğin özel vurgular) */
+} 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", serif;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+ul{
+    list-style-type: none;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+/** ===================================Header================================= */
+/* TODO Todo listim olsa deyirem meselen bu gun header+ sec_1 qurtarsin ve s cunki diger sectionlarda var bunlari uygunlasdirib todolist duzeltmek lazimdir ki asan olsun   */
+
+header{
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    max-width: 1200px;
+    /* padding: 0 100px; */
+    /* border: 1px solid; */
+    /* height: 35px; */
+    margin: 0 auto;
+}
+.header_top{
+    max-width: 1200px;
+    height:61px;
+    background-color: #fff;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 1px solid; */
+    width: 100%;
+}
+.header_top_left ul{
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+.header_top_left ul li a{
+    font-size: var(--font-size-md);
+    transition: all 250ms;
+}
+.header_top_left ul li a:hover{
+    color: var(--primary-design-color);
+    border-bottom: 2px solid var(--primary-design-color);
+}
+/* .header_1200{
+    max-width: 1200px;
+} */
+.header_top_right{
+    display: flex;
+    align-items: center;
+}
+.sosial-media {
+    display: flex;
+    gap: 9px;
+    border-right: 1px solid #bda6a6;
+    padding: 5px 11px;
+    font-weight: 600;
+}
+.header_top_right_padding  {
+    /* background-color: yellow; */
+    border-right: 1px solid #CDCDCD;
+    padding: 5px 11px;
+    font-weight: 600 ;
+}
+.header_top_right_padding :hover{
+    transform: scale(1.2);
+}
+.header_top_right_end{
+    padding: 5px 0px 5px 11px;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 7px;
+    font-weight: 600;
+}
+.header_top_right_end img:hover{
+    transform: scale(1.2);
+}
+.sosial-media span{
+    background-color: #F1F1F1;
+    padding: 3px 7px ;
+    /* box-shadow: 3px 3px 9px 3px rgba(102,102,102,0.74);
+    -webkit-box-shadow: 3px 3px 9px 3px rgba(102,102,102,0.74);
+    -moz-box-shadow: 3px 3px 9px 3px rgba(102,102,102,0.74); */
+}
+.sosial-media span:hover{
+    box-shadow:3px 3px 3px 0 rgba(0,0,0,.1);
+    transition: all 350ms;
+}
+
+
+
+.header_bottom{
+    display: flex;
+    justify-content: center;
+    /* max-width: 1200px; */
+    margin: 0 auto;
+    height: 115px;
+    gap: 55px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    align-items: center;
+    background-color: #fff;
+    /* left: 0px; */
+    z-index: 10000;
+}
+/* .header_bottom_scroll{
+    gap: 55px !important;
+    position:fixed;
+    display: none;
+    width: 100%;
+    z-index: 2011;
+    background-color: #fff;
+    top: 0;
+    left: 0;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 5px 0px;
+} */
+.header_bottom_left_logo{
+    width: 95px;
+    /* border: 1px solid; */
+}
+.header_bottom_left_logo img{
+    width: 100%;
+    /* border: 1px solid red; */
+}
+.header_bottom_nav {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header_bottom_nav_ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 55px;
+    height: 100%;
+}
+.header_bottom_nav_ul_li{
+    font-size: 16px;
+    font-weight: 700;
+    height: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.header_bottom_nav_ul_li ul{
+    background-color: #fff;
+    padding: 15px;
+    width: 250px;
+    border: 1px;
+    border-style:groove;
+    display: none;
+    gap: 15px;
+    /* display:flex; */
+    flex-direction: column;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.header_bottom_nav_ul_li ul li:hover{
+    color: red;
+}
+.header_bottom_nav_ul_li:hover a{
+    color: var(--primary-design-color);
+}
+.header_bottom_nav_ul_li:hover  ul{
+    display: flex;
+    position: absolute;
+    top: 100%;
+}
+
+.header_1200{
+    position: relative;
+}
+
+.basanda:hover .li_style{
+    background-color: red;
+    display: flex;
+}
+/* .li_style{
+    display: none;
+    top: 100%;
+    position: absolute;
+    flex-wrap: wrap;
+    z-index: 1000;
+    padding:25px;
+    background-color: #fff;
+} */
+/* .li_style:last-child{
+    border-right: none !important;
+}
+.li_style:only-child{
+    border-right:1px solid dashed ;
+} */
+/* .li_style_child{
+    border-right: 1px dashed;
+    width: 25%;
+    padding: 0px 25px;
+}
+.li_style_child img{
+    width: 39px;
+}
+.li_style_child  a{
+    width: 100%;
+    border-bottom: 1px solid;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+} */
+.header_responsive_bar{
+    display: none;
+}
+
+.header_responsive_bar button{
+    background-color: #fff;
+    border: none;
+}
+/* Slide_out_menu */
+.slide_out_menu{
+    background-color: #fff;
+    width: 80%;
+    height: 100%;
+    scrollbar-width: none;
+    overflow-y: scroll;
+    /* position: absolute; */
+    position: fixed;
+    display: none;
+    left: 0;
+    top: 0;
+    transition: all 500ms;
+    z-index: 1;
+    transform: translateX(-100%);
+}
+/* .slide_out_menu_sticky{
+    position: sticky;
+    top: 0;
+    left: 0;
+} */
+.slide_out_1{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 21px;
+}
+.slide_out_1_X{
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
+.slide_out_logo{
+    width: 85px;
+}
+.slide_out_giris{
+    display: flex;
+    gap: 11px;
+    align-items: center;
+    padding: 0px 0px 5px 15px;
+}
+.slide_out_giris img{
+    width: 41px !important;
+}
+.contacts{
+    display: flex;
+    gap: 11px;
+    align-items: center;
+}
+.contacts button{
+    background-color: var(--primary-design-color);
+    /* padding: 13px 15px; */
+    width: 41px ;
+    height: 41px;
+    border: none;
+    border-radius: 50%;
+}
+.contacts button a{
+    font-weight: 900;
+    font-size: var(--font-size-lg);
+    font-family: var(--primary-font);
+}
+/* Slide_out_2 */
+.slide_out_2_div ul{
+    transition: transform 500ms;
+    display: none;
+    /* height: 0 !important; */
+    transform: translateX(-100%);
+    flex-direction: column;
+}
+.slide_out_2_div ul li{
+    border-bottom: 1px solid ;
+    border-color: var(--secondary-bg-color);
+    padding: 0px 25px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+}
+.slide_out_2_div ul li:hover a{
+    color: var(--primary-design-color);
+}
+.slide_out_2_div h2{
+    /* border-bottom: 1px solid rgba(239, 239, 239, 0.753);; */
+    border-bottom: 1px solid ;
+    border-color: var(--secondary-bg-color);
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px;
+    height: 45px;
+    align-items: center;
+}
+.slide_out_2_div a{
+    font-weight: 700;
+    font-size: var(--font-size-sm);
+    color: var(--tertiary-text-color);
+}
+.slide_out_2_div h2:hover a{
+    color:rgb(216, 35, 42);
+}
+.slide_out_2_div h2 i{
+    color: rgb(216, 35, 42);
+    font-size: var(--font-size-md);
+}
+
+
+.slide_out_click_close{
+    display: none !important;
+}
+.slide_out_click_close_style{
+    display: block !important;
+}
+
+.slide_out_3{
+    margin-top: var(--fs-sec-heading);
+    padding: 0px 0px 25px 12px;
+}
+.slide_out_3 ul li a{
+    font-size: var(--font-size-md);
+    padding: 3px 0px;
+    font-weight: 600;
+    border-bottom: 1px solid #cdcdcd;
+    color: var(--tertiary-text-color);
+}
+.slide_out_4 {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 -3px 3px 0 rgba(0,0,0,.1);
+    padding: 9px 12px 6px 12px;
+}
+.slide_out_4_img{
+    width: 105px;
+}
+.slide_out_4 div {
+    display: flex;
+    gap: 9px;
+}
+.slide_out_4 div span{
+    background-color: #F1F1F1;
+    padding: 3px 7px ;
+    box-shadow:3px 3px 3px 0 rgba(0,0,0,.1);
+}
+
+
+
+
+/** ===================================Footer================================= */
+footer{
+    margin: 0 auto;
+    margin-top: 150vh;
+    width: 100%;
+    max-width: 1400px;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid; */
+    padding: 35px 0px;
+    flex-direction: column;
+}
+.footer_top{
+    display: flex;
+    margin: 0 auto;
+    /* max-width: 1400px; */
+    border-bottom: 1px solid #e5e5e5;
+    /* align-items: center; */
+    width: 100%;
+    padding:0px 0px 35px 0px ;
+    justify-content: space-around;
+}
+.footer_list_div{
+    width: 80%;
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: space-around;
+}
+.footer_logo{
+    /* border: 1px solid; */
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer_logo_img{
+    width: 135px;
+}
+.footer_list{
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+}
+.footer_list h3{
+    font-weight: 700;
+    font-size: var(--font-size-lg);
+    /* 10px gap */
+}
+.footer_list ul li a{
+    color: #323232;
+    font-size: var(--font-size-sm);
+    /* 6px gap */
+}
+.footer_list ul {
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+}
+.footer_bottom{
+    display: flex;
+    justify-content:space-between;
+    width: 100%;
+    gap: 15px;
+    padding: 25px 35px 5px 35px;
+}
+.footer_bottom h3{
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+}
+.footer_bottom div{
+    display: flex;
+    flex-direction: column;
+}
+.footer_bottom div a{
+    font-size: var(--font-size-md);
+}
+.footer_bottom div a:hover{
+    color:#BA2623;
+}
+
+
+
+
+/* todo li_1_style emele gelmir mence cunki mende o qeder yazi yoxdu ona gore sade bir sey lazimdi   */
+
+
+
+
+
+

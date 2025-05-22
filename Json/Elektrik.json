@@ -1,0 +1,501 @@
+{
+    "Razetka":[
+        {
+            "marka": "gunsan",
+            "Mehsullar": [
+                {
+                    "ad": "GÜNSAN VISAGE QORUYUCULU RAZETKA N1 AĞ",
+                    "aciklama": "Zərif və müasir dizaynı ilə daxili məkanlara uyğun Gunsan priz modeli.",
+                    "qiymet": 3.50,
+                    "stok": 150,
+                    "sekil": "Json/Elektrik/Gunsan/Gunsan_1.jpg"
+                },
+                {
+                    "ad": "GÜNSAN VISAGE RAZETKA AĞ",
+                    "aciklama": "Yüksək keyfiyyətli plastikdən hazırlanmış, davamlı Gunsan açar modeli.",
+                    "qiymet": 4.40,
+                    "stok": 200,
+                    "sekil": "Json/Elektrik/Gunsan/Gunsan_2.jpg"
+                },
+                {
+                    "ad": "GÜNSAN VISAGE VKLYUÇATEL AĞ",
+                    "aciklama": "Dar dizaynı ilə yer qənaəti təmin edən cüt priz modeli.",
+                    "qiymet": 3.65,
+                    "stok": 120,
+                    "sekil": "Json/Elektrik/Gunsan/Gunsan_3.jpg"
+                },
+                {
+                    "ad": "GÜNSAN VISAGE İŞIQLI VKLYUÇATEL AĞ",
+                    "aciklama": "USB bağlantısı təmin edən müasir və praktik Gunsan priz modeli.",
+                    "qiymet": 5.75,
+                    "stok": 80,
+                    "sekil": "Json/Elektrik/Gunsan/Gunsan_4.jpg"
+                },
+                {
+                    "ad": "GÜNSAN MODULAR DƏRİN RAZETKA QARA",
+                    "aciklama": "Uşaqların təhlükəsizliyi üçün xüsusi hazırlanmış Gunsan priz modeli.",
+                    "qiymet": 5.30,
+                    "stok": 100,
+                    "sekil": "Json/Elektrik/Gunsan/Gunsan_5.jpg"
+                },
+                {
+                    "ad": "GÜNSAN MODULAR RAZETKA QARA",
+                    "aciklama": "Metalik görünüşü ilə estetik toxunuş təqdim edən davamlı Gunsan açar modeli.",
+                    "qiymet": 9.85,
+                    "stok": 110,
+                    "sekil": "Json/Elektrik/Gunsan/Gunsan_6.jpg"
+                },
+                {
+                    "ad": "GÜNSAN FANTASY RAZETKA",
+                    "aciklama": "Enerjidən təhlükəsiz istifadə üçün torpaqlı priz modeli.",
+                    "qiymet": 3.20,
+                    "stok": 140,
+                    "sekil": "Json/Elektrik/Gunsan/Gunsan_7.jpg"
+                },
+                {
+                    "ad": "GÜNSAN FANTASY VKLYUÇATEL",
+                    "aciklama": "LED işıq göstəricisinə sahib innovativ açar modeli.",
+                    "qiymet": 6.50,
+                    "stok": 90,
+                    "sekil": "Json/Elektrik/Gunsan/Gunsan_8.jpg"
+                },
+                {
+                    "ad": "GÜNSAN MODULAR RAZETKA QARA",
+                    "aciklama": "Metalik görünüşü ilə estetik toxunuş təqdim edən davamlı Gunsan açar modeli.",
+                    "qiymet": 9.85,
+                    "stok": 110,
+                    "sekil": "Json/Elektrik/Gunsan/Gunsan_9.jpg"
+                },
+                {
+                    "ad": "GÜNSAN FANTASY TELEFON TAXIC YUVASI N1",
+                    "aciklama": "Enerjidən təhlükəsiz istifadə üçün torpaqlı priz modeli.",
+                    "qiymet": 3.20,
+                    "stok": 140,
+                    "sekil": "Json/Elektrik/Gunsan/Gunsan_10.jpg"
+                },
+                {
+                    "ad": "GÜNSAN FANTASY TELEFON TAXIC YUVASI N2",
+                    "aciklama": "LED işıq göstəricisinə sahib innovativ açar modeli.",
+                    "qiymet": 6.50,
+                    "stok": 90,
+                    "sekil": "Json/Elektrik/Gunsan/Gunsan_11.jpg"
+                }
+            ]
+        }
+    ],
+    "Naqiller_Kabeller":[
+        {
+            "marka": "borsan",
+            "Mehsullar": [
+                {
+                    "ad": "BORSAN KABEL QARA MAKARA",
+                    "aciklama": "Ev və ofis elektrik sistemlərində istifadəyə yararlı yüksək keyfiyyətli elektrik naqili.",
+                    "qiymet": 15.00,
+                    "stok": 100,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Borsan/borsan_1.jpg"
+                },
+                {
+                    "ad": "BORSAN UZADICI BAŞLIĞI İŞIQLI, DƏRİN",
+                    "aciklama": "Televiziya və peyk bağlantıları üçün nəzərdə tutulmuş, siqnal itkisini azaltmağa kömək edən kabel.",
+                    "qiymet": 10.50,
+                    "stok": 200,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Borsan/borsan_2.jpg"
+                },
+                {
+                    "ad": "BORSAN DƏRİN UZADICI 5 M",
+                    "aciklama": "İnternet və yüksək sürətli məlumat ötürülməsi üçün ideal fiber optik kabel.",
+                    "qiymet": 25.75,
+                    "stok": 75,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Borsan/borsan_3.jpg"
+                },
+                {
+                    "ad": "BORSAN UZADICI KALOTKA DƏRIN QARA",
+                    "aciklama": "Telefon və interkom sistemləri üçün nəzərdə tutulmuş dayanıqlı naqil.",
+                    "qiymet": 8.40,
+                    "stok": 150,
+                    "sekil": "Borsan/Json/Elektrik/Naqiller_Kabeller/Borsan/borsan_4.jpg"
+                },
+                {
+                    "ad": "BORSAN ELEKTRİK KABELİ ŞƏFFAF LAPŞA 2*0,50 MM2 (100 M)",
+                    "aciklama": "Televiziya və kompüterlər arasında yüksək keyfiyyətli audio və video ötürmək üçün HDMI kabel.",
+                    "qiymet": 18.90,
+                    "stok": 120,
+                    "sekil": "Borsan/Json/Elektrik/Naqiller_Kabeller/Borsan/borsan_5.jpg"
+                },
+                {
+                    "ad": "BORSAN ELEKTRİK KABELİ ŞƏFFAF LAPŞA 2*2,5 MM2",
+                    "aciklama": "Sürətli şarj və məlumat ötürülməsi üçün Type-C USB kabel.",
+                    "qiymet": 12.30,
+                    "stok": 180,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Borsan/borsan_6.jpg"
+                },
+                {
+                    "ad": "BORSAN KABELİ CU 100 METR QARA",
+                    "aciklama": "Yüksək gərginlikli elektrik sistemlərində istifadə üçün möhkəm naqil.",
+                    "qiymet": 35.50,
+                    "stok": 50,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Borsan/borsan_7.jpg"
+                },
+                {
+                    "ad": "BORSAN KABELİ CU 100 METR AĞ",
+                    "aciklama": "İşıqlandırma sistemləri üçün ideal nazik və çevik kabel.",
+                    "qiymet": 9.80,
+                    "stok": 140,
+                    "sekil": "Borsan/Json/Elektrik/Naqiller_Kabeller/Borsan/borsan_8.jpg"
+                },
+                {
+                    "ad": "Borsan Data Kabeli Cat6",
+                    "aciklama": "İnternet şəbəkələri üçün yüksək sürətli məlumat ötürülməsini təmin edən Cat6 kabel.",
+                    "qiymet": 22.30,
+                    "stok": 85,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Borsan/borsan_9.jpg"
+                },
+                {
+                    "ad": "BORSAN DƏRİN, 6 - LI UZADICI 5 M",
+                    "aciklama": "Yanğına qarşı yüksək müqavimət göstərə bilən elektrik naqili.",
+                    "qiymet": 12.80,
+                    "stok": 120,
+                    "sekil": "Borsan/Json/Elektrik/Naqiller_Kabeller/Borsan/borsan_10.jpg"
+                },
+                {
+                    "ad": "BORSAN ELEKTRİK UZADICI (UDİLNİTEL) 3 - LÜ 3 M QARA",
+                    "aciklama": "Siqnal ötürülməsi üçün nəzərdə tutulmuş yüksək keyfiyyətli nazik kabel.",
+                    "qiymet": 7.50,
+                    "stok": 200,
+                    "sekil": "Borsan/Json/Elektrik/Naqiller_Kabeller/Borsan/borsan_11.jpg"
+                }
+            ]
+        },
+        {
+            "marka": "hunkakablo",
+            "Mehsullar": [
+                {
+                    "ad": "RG11/U4 CCS+AL+AL TV KABELİ",
+                    "aciklama": "Yüksək cərəyan daşıma qabiliyyətinə malik elektrik sistemləri üçün ideal naqil.",
+                    "qiymet": 7.00,
+                    "stok": 90,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Hunkakablo/Hunkakablo_1.jpg"
+                },
+                {
+                    "ad": "CAT6 S-FTP 4*2*23 AWG",
+                    "aciklama": "Yanğına qarşı yüksək dayanıqlılığa malik təhlükəsizlik kabeli.",
+                    "qiymet": 14.50,
+                    "stok": 120,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Hunkakablo/Hunkakablo_2.jpg"
+                },
+                {
+                    "ad": "CCA CAT5e FTP METR DATA KABEL 4*2*24 AWG P/500",
+                    "aciklama": "Sürətli məlumat ötürülməsi üçün nəzərdə tutulmuş yüksək keyfiyyətli fiber optik kabel.",
+                    "qiymet": 30.75,
+                    "stok": 60,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Hunkakablo/Hunkakablo_3.jpg"
+                },
+                {
+                    "ad": "KASTRO 4 + 1 CCTV 4*0,22 CCA DRUM",
+                    "aciklama": "Televiziya və CCTV sistemləri üçün mükəmməl siqnal ötürücüsü.",
+                    "qiymet": 12.90,
+                    "stok": 150,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Hunkakablo/Hunkakablo_4.jpg"
+                },
+                {
+                    "ad": "CAT5e S - FTP 24A WG PVC P",
+                    "aciklama": "Interkom və alarm sistemləri üçün ideal siqnal naqili.",
+                    "qiymet": 9.40,
+                    "stok": 200,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Hunkakablo/Hunkakablo_5.jpg"
+                },
+                {
+                    "ad": "CAT6 FTP 4*2*24A WG CCA",
+                    "aciklama": "HD görüntü və yüksək keyfiyyətli audio ötürülməsi üçün HDMI kabel.",
+                    "qiymet": 20.00,
+                    "stok": 100,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Hunkakablo/Hunkakablo_6.jpg"
+                },
+                {
+                    "ad": "CAT5e FTP METR DATA KABEL",
+                    "aciklama": "Telefon xətləri üçün nəzərdə tutulmuş etibarlı naqil.",
+                    "qiymet": 8.75,
+                    "stok": 140,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Hunkakablo/Hunkakablo_7.jpg"
+                },
+                {
+                    "ad": "CAT6e FTP METR DATA KABEL",
+                    "aciklama": "Yüksək gərginlikli sənaye sistemləri üçün nəzərdə tutulmuş kabel.",
+                    "qiymet": 50.00,
+                    "stok": 40,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Hunkakablo/Hunkakablo_8.jpg"
+                },
+                {
+                    "ad": "CCTV KABEL 2 + 1 AL 75 2 X 0,22 MM",
+                    "aciklama": "HD görüntü və yüksək keyfiyyətli audio ötürülməsi üçün HDMI kabel.",
+                    "qiymet": 20.00,
+                    "stok": 100,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Hunkakablo/Hunkakablo_9.jpg"
+                },
+                {
+                    "ad": "YANĞIN SİQNAL KABELİ (QIRMIZI) 2*2*0,6 + 0,40 MM",
+                    "aciklama": "Telefon xətləri üçün nəzərdə tutulmuş etibarlı naqil.",
+                    "qiymet": 8.75,
+                    "stok": 140,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Hunkakablo/Hunkakablo_10.jpg"
+                },
+                {
+                    "ad": "TELEFON KABELİ 4*2*0,40 + 0,40 MM 9 TELLİ VBV, 100",
+                    "aciklama": "Yüksək gərginlikli sənaye sistemləri üçün nəzərdə tutulmuş kabel.",
+                    "qiymet": 50.00,
+                    "stok": 40,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/Hunkakablo/Hunkakablo_11.jpg"
+                }
+            ]
+        },
+        {
+            "marka": "HillFan",
+            "Mehsullar": [
+                {
+                    "ad": "HİLLFAN ALOV YAYMAYAN ELEKTRİK PVC BORU PROFİLİ 20 (3 m)",
+                    "aciklama": "Ev və ofis elektrik sistemləri üçün ideal yüksək keyfiyyətli naqil.",
+                    "qiymet": 14.20,
+                    "stok": 100,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/HillFan/HillFan_1.jpg"
+                },
+                {
+                    "ad": "HILL FAN PLASTİK SPİRAL QARA TELLİ 25 (50 M)",
+                    "aciklama": "Yüksək sürətli məlumat ötürülməsi üçün nəzərdə tutulmuş fiber optik kabel.",
+                    "qiymet": 35.50,
+                    "stok": 50,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/HillFan/HillFan_2.jpg"
+                },
+                {
+                    "ad": "HILL FAN PLASTİK SPİRAL QARA TELLİ 20 (50 M)",
+                    "aciklama": "Siqnal ötürülməsi və təhlükəsizlik sistemləri üçün uyğun kabel.",
+                    "qiymet": 10.90,
+                    "stok": 200,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/HillFan/HillFan_3.jpg"
+                },
+                {
+                    "ad": "HILL FAN PLASTİK SPİRAL QARA TELLİ 18 (50 M)",
+                    "aciklama": "Televiziya və peyk bağlantıları üçün yüksək keyfiyyətli koaksial kabel.",
+                    "qiymet": 13.80,
+                    "stok": 120,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/HillFan/HillFan_4.jpg"
+                },
+                {
+                    "ad": "HILL FAN YANMAZ SPİRAL BOZ TELLİ 25 (50 M)",
+                    "aciklama": "Telefon və interkom sistemləri üçün dayanıqlı naqil.",
+                    "qiymet": 7.60,
+                    "stok": 150,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/HillFan/HillFan_5.jpg"
+                },
+                {
+                    "ad": "HILL FAN YANMAZ SPİRAL BOZ TELLİ 20 (50 M)",
+                    "aciklama": "HD görüntü və yüksək keyfiyyətli audio ötürmək üçün nəzərdə tutulmuş HDMI kabel.",
+                    "qiymet": 25.00,
+                    "stok": 80,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/HillFan/HillFan_6.jpg"
+                },
+                {
+                    "ad": "HILL FAN YANMAZ SPİRAL BOZ TELLİ 18 (50 M)",
+                    "aciklama": "Yüksək gərginlikli sənaye tətbiqləri üçün nəzərdə tutulmuş naqil.",
+                    "qiymet": 60.00,
+                    "stok": 40,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/HillFan/HillFan_7.jpg"
+                },
+                {
+                    "ad": "HILL FAN KABEL KANALI 60*60",
+                    "aciklama": "İşıqlandırma sistemləri üçün ideal çevik və dayanıqlı kabel.",
+                    "qiymet": 12.50,
+                    "stok": 130,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/HillFan/HillFan_8.jpg"
+                },
+                {
+                    "ad": "HILL FAN KABEL KANALI 60*40",
+                    "aciklama": "HD görüntü və yüksək keyfiyyətli audio ötürmək üçün nəzərdə tutulmuş HDMI kabel.",
+                    "qiymet": 25.00,
+                    "stok": 80,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/HillFan/HillFan_9.jpg"
+                },
+                {
+                    "ad": "HILL FAN KABEL KANALI 40*40",
+                    "aciklama": "Yüksək gərginlikli sənaye tətbiqləri üçün nəzərdə tutulmuş naqil.",
+                    "qiymet": 60.00,
+                    "stok": 40,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/HillFan/HillFan_10.jpg"
+                },
+                {
+                    "ad": "HILL FAN YUVARLAQ KABEL KANALI 50*1,2 (2 M)",
+                    "aciklama": "İşıqlandırma sistemləri üçün ideal çevik və dayanıqlı kabel.",
+                    "qiymet": 12.50,
+                    "stok": 130,
+                    "sekil": "Json/Elektrik/Naqiller_Kabeller/HillFan/HillFan_11.jpg"
+                }
+            ]
+        }
+    ],
+    "AvtomatSigorta_Qutular":[
+        {
+            "marka": "Isildar",
+            "Mehsullar": [
+                {
+                    "ad": "IŞILDAR 2021 AVTOMAT SIĞORTA QUTUSU S/A 24 - LÜ",
+                    "aciklama": "Avtomat sigorta sistemləri üçün təhlükəsiz və etibarlı profil.",
+                    "qiymet": 14.20,
+                    "stok": 100,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Isildar/Isildar_1.jpg"
+                },
+                {
+                    "ad": "IŞILDAR 2018 AVTOMAT SIĞORTA QUTUSU S/U 12 - Lİ",
+                    "aciklama": "Sigorta və qutu sistemlərində yüksək dayanıqlılıq təmin edir.",
+                    "qiymet": 35.50,
+                    "stok": 50,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Isildar/Isildar_2.jpg"
+                },
+                {
+                    "ad": "IŞILDAR 2001 AVTOMAT SIĞORTA QUTUSU 2 - Lİ SADƏ",
+                    "aciklama": "Qutuların naqil ötürülməsi üçün ideal seçim.",
+                    "qiymet": 10.90,
+                    "stok": 200,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Isildar/Isildar_3.jpg"
+                },
+                {
+                    "ad": "IŞILDAR 1 - Lİ AVTOMAT QUTUSU",
+                    "aciklama": "Avtomat sigorta sistemləri ilə tam uyğundur.",
+                    "qiymet": 13.80,
+                    "stok": 120,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Isildar/Isildar_4.jpg"
+                },
+                {
+                    "ad": "ŞILDAR 2023 AVTOMAT SIĞORTA QUTUSU S/A 16 - li",
+                    "aciklama": "Avtomat qutular üçün yüksək təhlükəsizlik təmin edir.",
+                    "qiymet": 7.60,
+                    "stok": 150,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Isildar/Isildar_5.jpg"
+                },
+                {
+                    "ad": "IŞILDAR 2024 AVTOMAT QUTUSU S/Ü 16 - LI",
+                    "aciklama": "Siqorta qutularında təhlükəsiz naqil keçidi üçün idealdır.",
+                    "qiymet": 5.00,
+                    "stok": 80,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Isildar/Isildar_6.jpg"
+                },
+                {
+                    "ad": "IŞILDAR 2016 AVTOMAT SIĞORTA QUTUSU S/U 9 - lu",
+                    "aciklama": "Sənaye sigorta sistemlərində tam uyğun.",
+                    "qiymet": 6.00,
+                    "stok": 40,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Isildar/Isildar_7.jpg"
+                },
+                {
+                    "ad": "IŞILDAR 2002 AVTOMAT SIĞORTA QUTUSU 3 - 4",
+                    "aciklama": "Sigorta qutuları üçün çevik və dayanıqlı kabel kanalı.",
+                    "qiymet": 12.50,
+                    "stok": 130,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Isildar/Isildar_8.jpg"
+                },
+                {
+                    "ad": "IŞILDAR 2012 AVTOMAT SIĞORTA QUTUSU S/Ü 2 - Lİ",
+                    "aciklama": "Avtomat qutular üçün ideal naqil ötürülmə həlli.",
+                    "qiymet": 25.00,
+                    "stok": 80,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Isildar/Isildar_9.jpg"
+                },
+                {
+                    "ad": "IŞILDAR 2022 AVTOMAT QUTUSU S/Ü 24 - LÜ",
+                    "aciklama": "Sənaye tətbiqləri üçün etibarlı kabel kanalı.",
+                    "qiymet": 60.00,
+                    "stok": 40,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Isildar/Isildar_10.jpg"
+                },
+                {
+                    "ad": "ISILDAR YUVARLAQ KABEL KANALI 50*1,2 (2 M)",
+                    "aciklama": "Qutular üçün çevik və dayanıqlı naqil keçidi.",
+                    "qiymet": 12.50,
+                    "stok": 130,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Isildar/Isildar_1.jpg"
+                }
+            ]
+        },
+        {
+            "marka": "Siemens",
+            "Mehsullar": [
+                {
+                    "ad": "AVTOMAT AÇAR SIEMENS 5SL 6240 - 7 C 40 6KA 2 POLE",
+                    "aciklama": "Avtomat açar sistemləri üçün ideal və təhlükəsiz profil.",
+                    "qiymet": 14.20,
+                    "stok": 100,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Siemens/Siemens_1.jpg"
+                },
+                {
+                    "ad": "SIEMENS AVTOMAT AÇAR 5SL 6116 - 7 C 16 6KA",
+                    "aciklama": "Avtomat açar sistemlərində yüksək davamlılıq təmin edir.",
+                    "qiymet": 5.50,
+                    "stok": 50,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Siemens/Siemens_2.jpg"
+                },
+                {
+                    "ad": "AVTOMAT AÇAR SIEMENS 5SL 6120 - 7 C 20 6KA",
+                    "aciklama": "Avtomat açarlar üçün etibarlı naqil keçidi.",
+                    "qiymet": 10.90,
+                    "stok": 200,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Siemens/Siemens_3.jpg"
+                },
+                {
+                    "ad": "AVTOMAT AÇAR SIEMENS B TİPİ 5SL6140 - 6 B 40 6KA",
+                    "aciklama": "Avtomat açar sistemləri ilə tam uyğun.",
+                    "qiymet": 13.80,
+                    "stok": 120,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Siemens/Siemens_4.jpg"
+                },
+                {
+                    "ad": "AVTOMAT AÇAR SIEMENS B TİPİ 5SL6132 - 6 B 32 6KA",
+                    "aciklama": "Avtomat açarların təhlükəsizlik standartlarına uyğun naqil keçidi.",
+                    "qiymet": 7.60,
+                    "stok": 150,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Siemens/Siemens_5.jpg"
+                },
+                {
+                    "ad": "AVTOMAT AÇAR SIEMENS B TİPİ 5SL6125 - 6 B 25 6KA",
+                    "aciklama": "Avtomat açarların təhlükəsizliyi üçün ideal material.",
+                    "qiymet": 25.00,
+                    "stok": 80,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Siemens/Siemens_6.jpg"
+                },
+                {
+                    "ad": "AVTOMAT AÇAR SIEMENS 5SL 6363 - 7 C 63 6KA",
+                    "aciklama": "Sənaye tətbiqlərində avtomat açar sistemlərinə uyğun.",
+                    "qiymet": 60.00,
+                    "stok": 40,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Siemens/Siemens_7.jpg"
+                },
+                {
+                    "ad": "AVTOMAT AÇAR SIEMENS B TİPİ 5SL6120 - 6 B 20 6KA",
+                    "aciklama": "Avtomat açar sistemləri üçün ideal çevik kabel kanalı.",
+                    "qiymet": 12.50,
+                    "stok": 130,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Siemens/Siemens_8.jpg"
+                },
+                {
+                    "ad": "AVTOMAT AÇAR SIEMENS B TİPİ 5SL6116 - 6 B 16 6KA",
+                    "aciklama": "Avtomat açarlar üçün çevik və funksional həll.",
+                    "qiymet": 25.00,
+                    "stok": 80,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Siemens/Siemens_9.jpg"
+                },
+                {
+                    "ad": "AVTOMAT AÇAR SIEMENS 5SL 6320 - 7 C 20 6KA",
+                    "aciklama": "Avtomat açar sistemləri üçün etibarlı kabel kanalı.",
+                    "qiymet": 60.00,
+                    "stok": 40,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Siemens/Siemens_10.jpg"
+                },
+                {
+                    "ad": "AVTOMAT AÇAR SIEMENS 5SL 6350 - 7 C 50 6KA",
+                    "aciklama": "Avtomat açarların çevik və dayanıqlı naqil keçidi.",
+                    "qiymet": 12.50,
+                    "stok": 130,
+                    "sekil": "Json/Elektrik/Sigorta_Qutular/Siemens/Siemens_11.jpg"
+                }
+            ]
+        }
+    ]
+}
+

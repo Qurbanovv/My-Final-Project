@@ -1,0 +1,532 @@
+{
+    "Sverlolar":[
+        {
+            "marka": "Ceta_form",
+            "Mehsullar": [
+                {
+                    "ad": "CETA FORM METAL PUNCH DƏLİK AÇMA MİŞARI 16 MM",
+                    "aciklama": "Beton, taxta və metal səthlər üçün yüksək performanslı elektrik sverlosu.",
+                    "qiymet": 15.00,
+                    "stok": 40,
+                    "sekil": "Json/Xirdavat/Sverlolar/Ceta_form/Ceta_form_1.jpg"
+                },
+                {
+                    "ad": "CETA METAL PUNCH DƏLİK AÇMA MİŞARI 92 MM",
+                    "aciklama": "Sərfəli gücə sahib, erqonomik dizaynlı universal qazma aləti.",
+                    "qiymet": 12.00,
+                    "stok": 35,
+                    "sekil": "Json/Xirdavat/Sverlolar/Ceta_form/Ceta_form_2.jpg"
+                },
+                {
+                    "ad": "CETA FORM J40 - A1 BURĞU ALƏTLƏRİ ÜÇÜN UCLUQ 14 - 29 MM",
+                    "aciklama": "Beton və sərt materiallar üzərində problemsiz qazma üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 18.00,
+                    "stok": 20,
+                    "sekil": "Json/Xirdavat/Sverlolar/Ceta_form/Ceta_form_3.jpg"
+                },
+                {
+                    "ad": "CETA FORM J40 - A3 BURĞU ALƏTLƏRİ ÜÇÜN UCLUQ 14 - 29 MM SDS PLUS",
+                    "aciklama": "Fərqli iş şəraitlərinə uyğun tənzimlənə bilən sürət xüsusiyyəti ilə.",
+                    "qiymet": 14.00,
+                    "stok": 30,
+                    "sekil": "Json/Xirdavat/Sverlolar/Ceta_form/Ceta_form_4.jpg"
+                },
+                {
+                    "ad": "CETA FORM C/F J40-152 HSS BI-METAL PANC 152 MM",
+                    "aciklama": "Uzunmüddətli istifadə üçün güclü batareya və kompakt dizayn.",
+                    "qiymet": 20.00,
+                    "stok": 15,
+                    "sekil": "Json/Xirdavat/Sverlolar/Ceta_form/Ceta_form_5.jpg"
+                }
+            ]
+        },
+        {
+            "marka": "Makina_takim",
+            "Mehsullar": [
+                {
+                    "ad": "Makina takim HSSE DIN 844/BN 5,5 MM QISA",
+                    "aciklama": "Beton, taxta və metal səthlər üçün yüksək performanslı elektrik sverlosu.",
+                    "qiymet": 5.00,
+                    "stok": 40,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_1.jpg"
+                },
+                {
+                    "ad": "Makina takim HSSE CO8 DIN 844/BN 8 MM QISA",
+                    "aciklama": "Sərfəli gücə sahib, erqonomik dizaynlı universal qazma aləti.",
+                    "qiymet": 25.00,
+                    "stok": 35,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_2.jpg"
+                },
+                {
+                    "ad": "ƏL RAYBASI HSS DIN206 L - RN 7 MM H7",
+                    "aciklama": "Beton və sərt materiallar üzərində problemsiz qazma üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 10.00,
+                    "stok": 20,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_3.jpg"
+                },
+                {
+                    "ad": "Makina takim ƏL RAYBASI B00301010700 HSS DIN206 L - RN 7 MM H",
+                    "aciklama": "Fərqli iş şəraitlərinə uyğun tənzimlənə bilən sürət xüsusiyyəti ilə.",
+                    "qiymet": 40.00,
+                    "stok": 30,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_4.jpg"
+                },
+                {
+                    "ad": "MAQNİTLİ DREL B00310402700 HSS 27 UZUN DELIC SENK",
+                    "aciklama": "Uzunmüddətli istifadə üçün güclü batareya və kompakt dizayn.",
+                    "qiymet": 200.00,
+                    "stok": 15,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_5.jpg"
+                },
+                {
+                    "ad": "MAQNİTLİ DREL B00310402300 HSS 23 UZUN DELIC SENK",
+                    "aciklama": "Çoxfunksiyalı başlıqları ilə müxtəlif qazma işləri üçün ideal seçimdir.",
+                    "qiymet": 165.00,
+                    "stok": 25,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_6.jpg"
+                },
+                {
+                    "ad": "MAQNİTLİ DREL B00310401300 HSS 13 UZUN DELIC SENK",
+                    "aciklama": "Beton, taxta və metal səthlər üçün yüksək performanslı elektrik sverlosu.",
+                    "qiymet": 50.00,
+                    "stok": 40,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_7.jpg"
+                },
+                {
+                    "ad": "MAQNİTLİ DREL B00310401200 HSS 12 UZUN DELIC SENK",
+                    "aciklama": "Sərfəli gücə sahib, erqonomik dizaynlı universal qazma aləti.",
+                    "qiymet": 25.00,
+                    "stok": 35,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_8.jpg"
+                },
+                {
+                    "ad": "MAQNİTLİ DREL B00310301600 HSS 16 QISA DELIC SENK",
+                    "aciklama": "Beton və sərt materiallar üzərində problemsiz qazma üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 10.00,
+                    "stok": 20,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_9.jpg"
+                },
+                {
+                    "ad": "MAQNİTLİ DREL B00310302300 HSS 23 QISA DELIC SENK",
+                    "aciklama": "Fərqli iş şəraitlərinə uyğun tənzimlənə bilən sürət xüsusiyyəti ilə.",
+                    "qiymet": 40.00,
+                    "stok": 30,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_10.jpg"
+                },
+                {
+                    "ad": "MAQNİTLİ DREL B00310401500 HSS 15 UZUN DELIC SENK",
+                    "aciklama": "Uzunmüddətli istifadə üçün güclü batareya və kompakt dizayn.",
+                    "qiymet": 200.00,
+                    "stok": 15,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_11.jpg"
+                },
+                {
+                    "ad": "MAQNİTLİ DREL B00310402100 HSS 21 UZUN DELIC SENK",
+                    "aciklama": "Çoxfunksiyalı başlıqları ilə müxtəlif qazma işləri üçün ideal seçimdir.",
+                    "qiymet": 165.00,
+                    "stok": 25,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_12.jpg"
+                },
+                {
+                    "ad": "MAQNİTLİ DREL B00310402300 HSS 23 UZUN DELIC SENK",
+                    "aciklama": "Çoxfunksiyalı başlıqları ilə müxtəlif qazma işləri üçün ideal seçimdir.",
+                    "qiymet": 165.00,
+                    "stok": 25,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_12.jpg"
+                },
+                {
+                    "ad": "MAQNİTLİ DREL HSS UZUN DELIC SENK",
+                    "aciklama": "Beton, taxta və metal səthlər üçün yüksək performanslı elektrik sverlosu.",
+                    "qiymet": 50.00,
+                    "stok": 40,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_13.jpg"
+                },
+                {
+                    "ad": "MAQNİTLİ DREL B00310302500 HSS 25 QISA DELIC SENK",
+                    "aciklama": "Sərfəli gücə sahib, erqonomik dizaynlı universal qazma aləti.",
+                    "qiymet": 25.00,
+                    "stok": 35,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_14.jpg"
+                },
+                {
+                    "ad": "B00103891400 HSSE DIN376/B M14 QIRMIZI PARLAQ",
+                    "aciklama": "Beton və sərt materiallar üzərində problemsiz qazma üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 10.00,
+                    "stok": 20,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_15.jpg"
+                },
+                {
+                    "ad": "B00103891200 HSSE DIN376/B M12 QIRMIZI PARLAQ",
+                    "aciklama": "Fərqli iş şəraitlərinə uyğun tənzimlənə bilən sürət xüsusiyyəti ilə.",
+                    "qiymet": 40.00,
+                    "stok": 30,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_16.jpg"
+                },
+                {
+                    "ad": "B00105710500TIN HSSE - TIN DIN371/B M5 MAKİNA KILAVUZU - YİV AÇAN (6H)",
+                    "aciklama": "Uzunmüddətli istifadə üçün güclü batareya və kompakt dizayn.",
+                    "qiymet": 200.00,
+                    "stok": 15,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_17.jpg"
+                },
+                {
+                    "ad": "B00105710400TIN HSSE - TIN DIN371/B M4 MAKİNA KILAVUZU - YİV AÇAN (6H)",
+                    "aciklama": "Çoxfunksiyalı başlıqları ilə müxtəlif qazma işləri üçün ideal seçimdir.",
+                    "qiymet": 165.00,
+                    "stok": 25,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_18.jpg"
+                },
+                {
+                    "ad": "B00105710400TIN HSSE - TIN DIN371/B M4 MAKİNA KILAVUZU - YİV AÇAN (6H)",
+                    "aciklama": "Fərqli iş şəraitlərinə uyğun tənzimlənə bilən sürət xüsusiyyəti ilə.",
+                    "qiymet": 40.00,
+                    "stok": 30,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_19.jpg"
+                },
+                {
+                    "ad": "B00105710300TIN HSSE - TIN DIN371/B M3 MAKİNA KILAVUZU - YİV AÇAN (6H)",
+                    "aciklama": "Uzunmüddətli istifadə üçün güclü batareya və kompakt dizayn.",
+                    "qiymet": 200.00,
+                    "stok": 15,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_20.jpg"
+                },
+                {
+                    "ad": "B00105721000TIN HSSE - TIN DIN371/C M10 MAKİNA KILAVUZU - YİV AÇAN (6H)",
+                    "aciklama": "Çoxfunksiyalı başlıqları ilə müxtəlif qazma işləri üçün ideal seçimdir.",
+                    "qiymet": 165.00,
+                    "stok": 25,
+                    "sekil": "Json/Xirdavat/Sverlolar/Makina_takim/Makina_takim_21.jpg"
+                }
+            ]
+        }
+                    
+    ],
+    "Kesici_yonucu_aletler":[
+        {
+            "marka": "Dekor",
+            "Mehsullar": [
+                {
+                    "ad": "DEKOR 1061 CİLALAMA MAŞINI DİSKİ (POLİURETAN ALTLIQLI)",
+                    "aciklama": "Metalları və digər sərt materialları dəqiq kəsmək üçün yüksək davamlılıq təmin edir.",
+                    "qiymet": 85.00,
+                    "stok": 40,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Dekor/Dekor_1.jpg"
+                },
+                {
+                    "ad": "DEKOR 1242 AVTO MƏCUN CİLALAMA SÜNGƏRİ 21 SM",
+                    "aciklama": "Dəqiq yonma və səth təmizləmə işləri üçün ideal vasitədir.",
+                    "qiymet": 75.00,
+                    "stok": 35,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Dekor/Dekor_2.jpg"
+                },
+                {
+                    "ad": "Dekor Spiral Kəsici Alət 2000W",
+                    "aciklama": "Güclü motoru ilə müxtəlif materiallar üzərində yüksək performans təmin edir.",
+                    "qiymet": 120.00,
+                    "stok": 30,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Dekor/Dekor_3.jpg"
+                },
+                {
+                    "ad": "DEKOR 1812 KONUS CİLALAMA SÜNGƏRİ 30 SM",
+                    "aciklama": "Beton səthlərin təmizlənməsi və yonulması üçün idealdır.",
+                    "qiymet": 65.00,
+                    "stok": 25,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Dekor/Dekor_4.jpg"
+                },
+                {
+                    "ad": "DEKOR 1802 KONUS FORMALI CİLALAMA SÜNGƏRİ 26 SM",
+                    "aciklama": "Həm yonma, həm də kəsmə işləri üçün çoxfunksiyalı disk.",
+                    "qiymet": 95.00,
+                    "stok": 20,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Dekor/Dekor_5.jpg"
+                },
+                {
+                    "ad": "DEKOR 6200 TEL FIRÇA 13 SM",
+                    "aciklama": "Ağır iş şəraitlərində yüksək performanslı kəsmə üçün idealdır.",
+                    "qiymet": 150.00,
+                    "stok": 15,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Dekor/Dekor_6.jpg"
+                },
+                {
+                    "ad": "DEKOR 6201 TEL FIRÇA 13 SM",
+                    "aciklama": "Kiçik və dar yerlərdə səth yonması üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 45.00,
+                    "stok": 30,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Dekor/Dekor_7.jpg"
+                },
+                {
+                    "ad": "DEKOR 1240 PLASTİK CİLA TABAĞI",
+                    "aciklama": "Metalları dəqiq və təhlükəsiz kəsmək üçün yüksək keyfiyyətli testere.",
+                    "qiymet": 135.00,
+                    "stok": 18,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Dekor/Dekor_8.jpg"
+                },
+                {
+                    "ad": "DEKOR 1241 PLASTİK CİLA TABAĞI BALACA",
+                    "aciklama": "Zərif yonma və təmir işləri üçün kompakt və güclü vasitədir.",
+                    "qiymet": 110.00,
+                    "stok": 22,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Dekor/Dekor_9.jpg"
+                }
+            ]
+        },
+        {
+            "marka": "Ceta_form",
+            "Mehsullar": [
+                {
+                    "ad": "CETA FORM C21 - 78X 1/2 UZATMA QOL 375 MM",
+                    "aciklama": "Metalları və digər sərt materialları dəqiq kəsmək üçün yüksək davamlılıq təmin edir.",
+                    "qiymet": 85.00,
+                    "stok": 40,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Ceta_form/Ceta_form_1.jpg"
+                },
+                {
+                    "ad": "CETA FORM J65 - 107H ÜÇ KÜNCLÜ MİŞAR YEYƏSİ 175 MM",
+                    "aciklama": "Dəqiq yonma və səth təmizləmə işləri üçün ideal vasitədir.",
+                    "qiymet": 75.00,
+                    "stok": 35,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Ceta_form/Ceta_form_2.jpg"
+                }
+            ]
+        },
+        {
+            "marka": "Eltos",
+            "Mehsullar": [
+                {
+                    "ad": "ELTOS DA420 DİSK ALTLIĞI 115 MM",
+                    "aciklama": "Metalları və digər sərt materialları dəqiq kəsmək üçün yüksək davamlılıq təmin edir.",
+                    "qiymet": 85.00,
+                    "stok": 40,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Eltos/Eltos_1.jpg"
+                },
+                {
+                    "ad": "ELTOS DA421 DİSK ALTLIĞI 180 MM",
+                    "aciklama": "Dəqiq yonma və səth təmizləmə işləri üçün ideal vasitədir.",
+                    "qiymet": 75.00,
+                    "stok": 35,
+                    "sekil": "Json/Xirdavat/Kesici_yonucu_aletler/Eltos/Eltos_2.jpg"
+                }
+            ]
+        }
+    ],
+    "Mexaniki_el_aletleri":[
+        {
+            "marka": "Ceta_form",
+            "Mehsullar": [
+                {
+                    "ad": "Ceta_form Tənzimlənə Bilən Açar",
+                    "aciklama": "Fərqli ölçülü qoz və boltların sıxılması üçün ideal mexaniki əl alətidir.",
+                    "qiymet": 50.00,
+                    "stok": 45,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_1.jpg"
+                },
+                {
+                    "ad": "Ceta_form Tornavida Seti 12 Parça",
+                    "aciklama": "Mexaniki işlər üçün dəqiq və keyfiyyətli tornavida dəsti.",
+                    "qiymet": 75.00,
+                    "stok": 30,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_2.jpg"
+                },
+                {
+                    "ad": "Ceta_form Qayçı Tipli Kesici Alət",
+                    "aciklama": "Kəsici və mexaniki işlər üçün dayanıqlı və iti qayçı alət.",
+                    "qiymet": 40.00,
+                    "stok": 20,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_3.jpg"
+                },
+                {
+                    "ad": "Ceta_form Tork Açarı",
+                    "aciklama": "Yüksək təzyiq tələb edən quraşdırma işləri üçün tork açarı.",
+                    "qiymet": 120.00,
+                    "stok": 25,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_4.jpg"
+                },
+                {
+                    "ad": "Ceta_form Yastı Kəlbətini",
+                    "aciklama": "Simsiz mexaniki işlər üçün etibarlı və erqonomik kəlbətin.",
+                    "qiymet": 60.00,
+                    "stok": 35,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_5.jpg"
+                },
+                {
+                    "ad": "Ceta_form Dəmir Testeresi",
+                    "aciklama": "Dəmir və digər möhkəm materialları kəsmək üçün nəzərdə tutulmuş testerə.",
+                    "qiymet": 85.00,
+                    "stok": 15,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_6.jpg"
+                },
+                {
+                    "ad": "Ceta_form Manual Perforator",
+                    "aciklama": "Mexaniki qazma işləri üçün əla seçimdir.",
+                    "qiymet": 95.00,
+                    "stok": 18,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_7.jpg"
+                },
+                {
+                    "ad": "Ceta_form Mexaniki Çəkic",
+                    "aciklama": "Tikinti və təmir işlərində istifadə üçün davamlı çəkic.",
+                    "qiymet": 70.00,
+                    "stok": 22,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_8.jpg"
+                },
+                {
+                    "ad": "Ceta_form Qaynaq Çəkici",
+                    "aciklama": "Qaynaqdan sonra səthi təmizləmək üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 55.00,
+                    "stok": 25,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_9.jpg"
+                },
+                {
+                    "ad": "Ceta_form Əyri Ağızlı Kəlbətini",
+                    "aciklama": "Dar yerlərdə işləmək üçün nəzərdə tutulmuş xüsusi dizaynlı kəlbətin.",
+                    "qiymet": 65.00,
+                    "stok": 20,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_10.jpg"
+                },
+                {
+                    "ad": "Ceta_form Bolt Sıxma Aləti",
+                    "aciklama": "Əl ilə quraşdırma işlərini asanlaşdıran praktik alət.",
+                    "qiymet": 45.00,
+                    "stok": 30,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_11.jpg"
+                },
+                {
+                    "ad": "Ceta_form Qazma Başı 16mm",
+                    "aciklama": "Qazma işləri üçün yüksək davamlı materialdan hazırlanmışdır.",
+                    "qiymet": 35.00,
+                    "stok": 28,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_12.jpg"
+                },
+                {
+                    "ad": "Ceta_form Cüt Qolu Mexaniki Maşa",
+                    "aciklama": "Yüksək güc tətbiqi üçün uyğun mexaniki əl aləti.",
+                    "qiymet": 8.00,
+                    "stok": 18,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_13.jpg"
+                },
+                {
+                    "ad": "Ceta_form Təmir Tornavida Dəsti",
+                    "aciklama": "Gündəlik təmir işləri üçün çoxfunksiyalı və keyfiyyətli dəst.",
+                    "qiymet": 1.00,
+                    "stok": 12,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_14.jpg"
+                },
+                {
+                    "ad": "Ceta_form Yiv Açarı",
+                    "aciklama": "Yivlər üzərində dəqiq quraşdırma işləri üçün idealdır.",
+                    "qiymet": 2.00,
+                    "stok": 10,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Ceta_form/Ceta_form_15.jpg"
+                }
+            ]
+        },
+        {
+            "marka": "Dekor",
+            "Mehsullar": [
+                {
+                    "ad": "Dekor Tənzimlənə Bilən Divar Kağızı bıçağı",
+                    "aciklama": "Fərqli ölçülü qoz və boltların sıxılması üçün ideal mexaniki əl alətidir.",
+                    "qiymet": 4.00,
+                    "stok": 45,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Dekor/Dekor_1.jpg"
+                },
+                {
+                    "ad": "Dekor Profesional Divar Kağızı bıçağı",
+                    "aciklama": "Mexaniki işlər üçün dəqiq və keyfiyyətli tornavida dəsti.",
+                    "qiymet": 6.00,
+                    "stok": 30,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Dekor/Dekor_2.jpg"
+                },
+                {
+                    "ad": "Dekor Aliminium Divar Kağızı bıçağ",
+                    "aciklama": "Kəsici və mexaniki işlər üçün dayanıqlı və iti qayçı alət.",
+                    "qiymet": 3.00,
+                    "stok": 20,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Dekor/Dekor_3.jpg"
+                },
+                {
+                    "ad": "Dekor Kepenek Mikser 10SM",
+                    "aciklama": "Simsiz mexaniki işlər üçün etibarlı və erqonomik kəlbətin.",
+                    "qiymet": 5.00,
+                    "stok": 35,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Dekor/Dekor_4.jpg"
+                },
+                {
+                    "ad": "Dekor Kepenek Mikser 40SM",
+                    "aciklama": "Qaynaqdan sonra səthi təmizləmək üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 4.00,
+                    "stok": 25,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Dekor/Dekor_5.jpg"
+                }
+            ]
+        },
+        {
+            "marka": "Desa",
+            "Mehsullar": [
+                {
+                    "ad": "DESA ƏT BALTASI STR05",
+                    "aciklama": "Fərqli ölçülü qoz və boltların sıxılması üçün ideal mexaniki əl alətidir.",
+                    "qiymet": 15.00,
+                    "stok": 45,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Desa/Desa_1.jpg"
+                },
+                {
+                    "ad": "DESA REZİN TOXMAQ DLT0070 NO 70",
+                    "aciklama": "Mexaniki işlər üçün dəqiq və keyfiyyətli tornavida dəsti.",
+                    "qiymet": 14.00,
+                    "stok": 30,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Desa/Desa_2.jpg"
+                },
+                {
+                    "ad": "DESA USTA KƏSƏR BAŞI BOYALI DBK0350",
+                    "aciklama": "Kəsici və mexaniki işlər üçün dayanıqlı və iti qayçı alət.",
+                    "qiymet": 12.00,
+                    "stok": 20,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Desa/Desa_3.jpg"
+                },
+                {
+                    "ad": "DESA REZİN ÇƏKİC DLT0060 NO 60",
+                    "aciklama": "Simsiz mexaniki işlər üçün etibarlı və erqonomik kəlbətin.",
+                    "qiymet": 10.00,
+                    "stok": 35,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Desa/Desa_4.jpg"
+                },
+                {
+                    "ad": "DESA REZİN ÇƏKİC DLT0050 NO 50",
+                    "aciklama": "Qaynaqdan sonra səthi təmizləmək üçün nəzərdə tutulmuşdur.",
+                    "qiymet": 13.00,
+                    "stok": 25,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Desa/Desa_5.jpg"
+                },
+                {
+                    "ad": "DESA ÇƏKİC DÇ0300 300 Q",
+                    "aciklama": "Dar yerlərdə işləmək üçün nəzərdə tutulmuş xüsusi dizaynlı kəlbətin.",
+                    "qiymet": 11.00,
+                    "stok": 20,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Desa/Desa_6.jpg"
+                },
+                {
+                    "ad": "DESA REZİN ÇƏKİC DLT0060 NO 60",
+                    "aciklama": "Əl ilə quraşdırma işlərini asanlaşdıran praktik alət.",
+                    "qiymet": 9.00,
+                    "stok": 30,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Desa/Desa_7.jpg"
+                },
+                {
+                    "ad": "DESA REZİN ÇƏKİC DLT0050 NO 50",
+                    "aciklama": "Qazma işləri üçün yüksək davamlı materialdan hazırlanmışdır.",
+                    "qiymet": 8.00,
+                    "stok": 28,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Desa/Desa_8.jpg"
+                },
+                {
+                    "ad": "DESA ÇƏKİC DÇ0300 300 Q",
+                    "aciklama": "Yüksək güc tətbiqi üçün uyğun mexaniki əl aləti.",
+                    "qiymet": 14.50,
+                    "stok": 18,
+                    "sekil": "Json/Xirdavat/Mexaniki_el_aletleri/Desa/Desa_9.jpg"
+                }
+            ]
+        }        
+    ]
+}
