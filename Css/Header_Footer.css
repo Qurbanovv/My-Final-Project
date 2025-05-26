@@ -75,14 +75,6 @@ ul{
 }
 /** ===================================Header================================= */
 
-header{
-    width: 100%;
-    position: sticky;
-    top: 0;
-    z-index: 1;
-    max-width: 1200px;
-    margin: 0 auto;
-}
 .header_top{
     max-width: 1200px;
     height:61px;
@@ -361,7 +353,6 @@ header{
     padding: 3px 7px ;
     box-shadow:3px 3px 3px 0 rgba(0,0,0,.1);
 }
-
 
 
 
